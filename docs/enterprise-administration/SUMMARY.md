@@ -52,17 +52,17 @@
 ## Admin Announcements
 
 * [Admin announcements overview](admin-announcements/01-admin-announcements-overview-beta.md)
-* [Admin announcement roles and permissions](admin-announcements/02-admin-announcement-roles-and-permissions.md)
-* [Manage admin announcements](admin-announcements/02-managing-admin-announcements-beta.md)
 * [Create an announcement](admin-announcements/03-create-an-announcement.md)
-* [Prioritize admin announcements](admin-announcements/05-prioritize-admin-announcements.md)
-* [Use admin announcement templates](admin-announcements/06-use-admin-announcement-templates.md)
 * [Target announcements and manage audience](admin-announcements/07-target-announcements-and-manage-audience.md)
+* [Use admin announcement templates](admin-announcements/06-use-admin-announcement-templates.md)
+* [Prioritize admin announcements](admin-announcements/05-prioritize-admin-announcements.md)
+* [Manage admin announcements](admin-announcements/02-managing-admin-announcements-beta.md)
+* [Admin announcement roles and permissions](admin-announcements/02-admin-announcement-roles-and-permissions.md)
 
 ## Managing Enterprise teams and content
 
-* [Miro's new Admin Console](managing-enterprise-teams-and-content/01-miro's-new-admin-console.md)
 * [Miro AI admin controls](managing-enterprise-teams-and-content/01-miro-ai-admin-controls.md)
+* [Miro's new Admin Console](managing-enterprise-teams-and-content/01-miro's-new-admin-console.md)
 * [X UPLIFT DUP - Team management on Enterprise Plan](managing-enterprise-teams-and-content/02-x-uplift-dup-team-management-on-enterprise-plan.md)
 * [X UPLIFT DUP - Feature activation](managing-enterprise-teams-and-content/03-x-uplift-dup-feature-activation.md)
 * [Public beta program](managing-enterprise-teams-and-content/04-public-beta-program.md)
@@ -70,8 +70,8 @@
 * [Self-serve teams to Enterprise plan consolidation](managing-enterprise-teams-and-content/06-self-serve-teams-to-enterprise-plan-consolidation.md)
 * [Team management on Enterprise Plan](managing-enterprise-teams-and-content/07-team-management-on-enterprise-plan.md)
 * [Create a new team on Enterprise plan](managing-enterprise-teams-and-content/09-create-a-new-team-on-enterprise-plan.md)
-* [Team content admin](managing-enterprise-teams-and-content/10-team-content-admin.md)
 * [Team permissions on Enterprise plan](managing-enterprise-teams-and-content/10-team-permissions-on-enterprise-plan.md)
+* [Team content admin](managing-enterprise-teams-and-content/10-team-content-admin.md)
 * [Manage team privacy and discovery on Enterprise Plan](managing-enterprise-teams-and-content/11-manage-team-privacy-and-discovery-on-enterprise-plan.md)
 * [Content Admin permissions](managing-enterprise-teams-and-content/12-content-admin-permissions.md)
 

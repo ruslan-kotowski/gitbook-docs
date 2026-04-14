@@ -15,12 +15,12 @@
 
 ## User management
 
-* [Invite users](user-management/01-invite-users.md)
-* [Invitation settings](user-management/02-invitation-settings.md)
 * [How to change Members to Guests](user-management/03-how-to-change-members-to-guests.md)
+* [How to manage Admin roles](user-management/06-how-to-manage-admin-roles.md)
+* [Invitation settings](user-management/02-invitation-settings.md)
+* [Invite users](user-management/01-invite-users.md)
 * [Manage extra licenses](user-management/04-manage-extra-licenses.md)
 * [Managing license requests on Starter Plan and Business Plan](user-management/05-managing-license-requests-on-starter-plan-and-business-plan.md)
-* [How to manage Admin roles](user-management/06-how-to-manage-admin-roles.md)
 * [My Miro Admin left the company](user-management/07-my-miro-admin-left-the-company.md)
 * [Remove users](user-management/08-remove-users.md)
 

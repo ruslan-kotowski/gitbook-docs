@@ -12,17 +12,17 @@
 
 * [AI provider availability (Beta)](administration/01-ai-provider-availability-beta.md)
 * [Control user name visibility in analytics dashboards](administration/01-control-user-name-visibility-in-analytics-dashboards.md)
-* [EKM configuration status](administration/01-ekm-configuration-status.md)
-* [Introducing new Enterprise plan licenses](administration/01-introducing-new-enterprise-plan-licenses.md)
 * [New widgets and filters in AI Analytics](administration/01-new-widgets-and-filters-in-ai-analytics.md)
 * [Admin announcements: targeted, scheduled, and prioritized messaging](administration/02-admin-announcements-targeted-scheduled-and-prioritized-messaging.md)
 * [Introducing internal and external user types](administration/02-introducing-internal-and-external-user-types.md)
+* [EKM configuration status](administration/01-ekm-configuration-status.md)
+* [Introducing new Enterprise plan licenses](administration/01-introducing-new-enterprise-plan-licenses.md)
 * [Miro AI Analytics](administration/02-miro-ai-analytics.md)
 * [Admin announcements (Beta)](administration/03-admin-announcements-beta.md)
 * [Admin Analytics: Overview dashboard](administration/04-admin-analytics-overview-dashboard.md)
+* [User Groups](administration/07-user-groups.md)
 * [Miro AI admin controls](administration/06-miro-ai-admin-controls.md)
 * [Enhanced Board Export API capabilities for Platform API](administration/07-enhanced-board-export-api-capabilities-for-platform-api.md)
-* [User Groups](administration/07-user-groups.md)
 * [Cancel board exports, filter export jobs, and include content logs in export results](administration/08-cancel-board-exports-filter-export-jobs-and-include-content-logs-in-export-results.md)
 * [Admin Home](administration/09-admin-home.md)
 * [Settings-based filters for teams list](administration/10-settings-based-filters-for-teams-list.md)
@@ -44,17 +44,17 @@
 
 ## Artificial Intelligence
 
-* [AI Search](artificial-intelligence/01-ai-search.md)
-* [Edit Prototypes with AI](artificial-intelligence/01-edit-prototypes-with-ai.md)
 * [Introducing Miro Support Bot (Beta)](artificial-intelligence/01-introducing-miro-support-bot-beta.md)
-* [Miro AI credits update](artificial-intelligence/01-miro-ai-credits-update.md)
 * [Sidekicks and Flows AI activity generation](artificial-intelligence/01-sidekicks-and-flows-ai-activity-generation.md)
+* [AI Search](artificial-intelligence/01-ai-search.md)
 * [AI credits: Introducing tier-based allocation](artificial-intelligence/02-ai-credits-introducing-tier-based-allocation.md)
+* [Edit Prototypes with AI](artificial-intelligence/01-edit-prototypes-with-ai.md)
 * [General Sidekick, Formats menu, and Canvas prompt box](artificial-intelligence/02-general-sidekick-formats-menu-and-canvas-prompt-box.md)
-* [Miro AI board translations](artificial-intelligence/02-miro-ai-board-translations.md)
 * [AI Workflows](artificial-intelligence/03-ai-workflows.md)
-* [Miro AI – Visual context processing](artificial-intelligence/03-miro-ai-–-visual-context-processing.md)
 * [Miro AI Sidekicks now in mobile app](artificial-intelligence/04-miro-ai-sidekicks-now-in-mobile-app.md)
+* [Miro AI credits update](artificial-intelligence/01-miro-ai-credits-update.md)
+* [Miro AI board translations](artificial-intelligence/02-miro-ai-board-translations.md)
+* [Miro AI – Visual context processing](artificial-intelligence/03-miro-ai-–-visual-context-processing.md)
 * [Removal of 10-team limit for Miro AI & Talktrack](artificial-intelligence/04-removal-of-10-team-limit-for-miro-ai-talktrack.md)
 * [Bring your own AI (Beta)](artificial-intelligence/05-bring-your-own-ai-beta.md)
 * [Miro AI beta feature toggle](artificial-intelligence/06-miro-ai-beta-feature-toggle.md)
@@ -65,9 +65,9 @@
 
 ## Canvas and collaboration
 
-* [Copy prototypes to Figma](canvas-and-collaboration/01-copy-prototypes-to-figma.md)
 * [End-date reminders in Tables (Beta)](canvas-and-collaboration/01-end-date-reminders-in-tables-beta.md)
 * [Shareable Prototypes and Slides (Beta)](canvas-and-collaboration/01-shareable-prototypes-and-slides-beta.md)
+* [Copy prototypes to Figma](canvas-and-collaboration/01-copy-prototypes-to-figma.md)
 * [Timeline improvements](canvas-and-collaboration/01-timeline-improvements.md)
 * [Video upload and playback](canvas-and-collaboration/02-video-upload-and-playback.md)
 * [Status for boards](canvas-and-collaboration/03-status-for-boards.md)
@@ -117,9 +117,9 @@
 * [Embed Grid Widget in Docs](canvas-and-collaboration/47-embed-grid-widget-in-docs.md)
 * [New Intelligent Widgets](canvas-and-collaboration/48-new-intelligent-widgets.md)
 * [Catch-up (Beta)](canvas-and-collaboration/49-catch-up-beta.md)
-* [(Beta) Data Residency in Australia](canvas-and-collaboration/52-beta-data-residency-in-australia.md)
-* [Interactive Stickers & Reactions](canvas-and-collaboration/52-interactive-stickers-&-reactions.md)
 * [Interactive Stickers & Reactions](canvas-and-collaboration/52-interactive-stickers-reactions.md)
+* [Interactive Stickers & Reactions](canvas-and-collaboration/52-interactive-stickers-&-reactions.md)
+* [(Beta) Data Residency in Australia](canvas-and-collaboration/52-beta-data-residency-in-australia.md)
 * [Simplified UI on Interactive Displays](canvas-and-collaboration/53-simplified-ui-on-interactive-displays.md)
 * [Remove Arial, Times New Roman, and Georgia fonts from client](canvas-and-collaboration/54-remove-arial-times-new-roman-and-georgia-fonts-from-client.md)
 * [Updated text editing functions](canvas-and-collaboration/55-updated-text-editing-functions.md)
@@ -166,8 +166,8 @@
 * [Story point field on Azure Cards](canvas-and-collaboration/96-story-point-field-on-azure-cards.md)
 * [Voting results on canvas](canvas-and-collaboration/97-voting-results-on-canvas.md)
 * [Share board access via Microsoft Outlook](canvas-and-collaboration/98-share-board-access-via-microsoft-outlook.md)
-* [Link previews in Microsoft Outlook](canvas-and-collaboration/100-link-previews-in-microsoft-outlook.md)
 * [Share board access via Microsoft Teams](canvas-and-collaboration/100-share-board-access-via-microsoft-teams.md)
+* [Link previews in Microsoft Outlook](canvas-and-collaboration/100-link-previews-in-microsoft-outlook.md)
 * [Action Shortcuts](canvas-and-collaboration/101-action-shortcuts.md)
 * [Import Mural boards to Miro](canvas-and-collaboration/102-import-mural-boards-to-miro.md)
 * [Tabs in the Share dialog](canvas-and-collaboration/103-tabs-in-the-share-dialog.md)
@@ -196,8 +196,8 @@
 ## Enterprise Guard
 
 * [AI interaction logs (Beta)](enterprise-guard/01-ai-interaction-logs-beta.md)
-* [Custom labels in Data Discovery now support Prototype screens](enterprise-guard/01-custom-labels-in-data-discovery-now-support-prototype-screens.md)
 * [Granular Data discovery privileges for custom admin roles](enterprise-guard/01-granular-data-discovery-privileges-for-custom-admin-roles.md)
+* [Custom labels in Data Discovery now support Prototype screens](enterprise-guard/01-custom-labels-in-data-discovery-now-support-prototype-screens.md)
 * [Smarter clean-up with new disposition policy criteria](enterprise-guard/01-smarter-clean-up-with-new-disposition-policy-criteria.md)
 * [More precise control over board retention with new date criteria](enterprise-guard/02-more-precise-control-over-board-retention-with-new-date-criteria.md)
 * [Enterprise Guard and Microsoft Purview DSPM for AI integration](enterprise-guard/03-enterprise-guard-and-microsoft-purview-dspm-for-ai-integration.md)
@@ -236,14 +236,14 @@
 
 ## Integrations & Developer Platform
 
-* [Amazon Q integration](integrations-developer-platform/01-amazon-q-integration.md)
 * [Import OmniGraffle diagrams to Miro](integrations-developer-platform/01-import-omnigraffle-diagrams-to-miro.md)
 * [MCP features on Enterprise Advanced licenses](integrations-developer-platform/01-mcp-features-on-enterprise-advanced-licenses.md)
-* [Asana, ClickUp, Linear, Rally, and Trello integrations in Beta](integrations-developer-platform/02-asana-clickup-linear-rally-and-trello-integrations-in-beta.md)
-* [Gemini Enterprise integration (Beta) with Flows & Sidekicks](integrations-developer-platform/02-gemini-enterprise-integration-beta-with-flows-sidekicks.md)
 * [Jira hierarchy in Tables](integrations-developer-platform/02-jira-hierarchy-in-tables.md)
-* [[Draft] PA: Glean x Miro integration](integrations-developer-platform/03-draft-pa-glean-x-miro-integration.md)
+* [Gemini Enterprise integration (Beta) with Flows & Sidekicks](integrations-developer-platform/02-gemini-enterprise-integration-beta-with-flows-sidekicks.md)
 * [Microsoft Copilot integration (Beta) with Flows & Sidekicks](integrations-developer-platform/03-microsoft-copilot-integration-beta-with-flows-sidekicks.md)
+* [Amazon Q integration](integrations-developer-platform/01-amazon-q-integration.md)
+* [Asana, ClickUp, Linear, Rally, and Trello integrations in Beta](integrations-developer-platform/02-asana-clickup-linear-rally-and-trello-integrations-in-beta.md)
+* [[Draft] PA: Glean x Miro integration](integrations-developer-platform/03-draft-pa-glean-x-miro-integration.md)
 * [Third-Party Content in Spaces (Beta)](integrations-developer-platform/04-third-party-content-in-spaces-beta.md)
 * [Collaborate around Figma design prototypes](integrations-developer-platform/05-collaborate-around-figma-design-prototypes.md)
 * [Visualize data from Microsoft Power BI](integrations-developer-platform/06-visualize-data-from-microsoft-power-bi.md)
@@ -254,8 +254,8 @@
 
 ## Product and service innovation
 
-* [Bulk conversion to Azure cards](product-and-service-innovation/01-bulk-conversion-to-azure-cards.md)
 * [Sidekicks 2.0 consolidation](product-and-service-innovation/01-sidekicks-2.0-consolidation.md)
+* [Bulk conversion to Azure cards](product-and-service-innovation/01-bulk-conversion-to-azure-cards.md)
 * [Private Mode Improvement](product-and-service-innovation/02-private-mode-improvement.md)
 
 ## Security and compliance

@@ -21,8 +21,8 @@
     * [Templates](start-here/your-first-board/04-templates.md)
     * [Toolbars](start-here/your-first-board/05-toolbars.md)
 * Miro dashboard
-    * [AI search](start-here/miro-dashboard/01-ai-search.md)
     * [What is on your dashboard](start-here/miro-dashboard/01-what-is-on-your-dashboard.md)
+    * [AI search](start-here/miro-dashboard/01-ai-search.md)
     * [How to create a team in Miro](start-here/miro-dashboard/02-how-to-create-a-team-in-miro.md)
     * [How to search in Miro](start-here/miro-dashboard/03-how-to-search-in-miro.md)
     * [Profile and teams](start-here/miro-dashboard/04-profile-and-teams.md)
@@ -48,11 +48,11 @@
 * [Import Conceptboard to Miro](migrating-content-to-miro/01-import-conceptboard-to-miro.md)
 * [Import Draw.io diagrams to Miro](migrating-content-to-miro/02-import-draw.io-diagrams-to-miro.md)
 * [Import Figjam boards to Miro](migrating-content-to-miro/03-import-figjam-boards-to-miro.md)
-* [Import Lucidchart diagrams to Miro](migrating-content-to-miro/04-import-lucidchart-diagrams-to-miro.md)
-* [Importing Freehand boards to Miro](migrating-content-to-miro/05-importing-freehand-boards-to-miro.md)
 * [Import Jamboards to Miro](migrating-content-to-miro/06-import-jamboards-to-miro.md)
+* [Import Lucidchart diagrams to Miro](migrating-content-to-miro/04-import-lucidchart-diagrams-to-miro.md)
 * [Import Lucidspark boards to Miro](migrating-content-to-miro/08-import-lucidspark-boards-to-miro.md)
 * [Import Visio diagrams to Miro](migrating-content-to-miro/09-import-visio-diagrams-to-miro.md)
+* [Importing Freehand boards to Miro](migrating-content-to-miro/05-importing-freehand-boards-to-miro.md)
 * Import Mural boards to Miro
     * [Mural to Miro import guide – Copy-paste](migrating-content-to-miro/import-mural-boards-to-miro/01-mural-to-miro-import-guide-–-copy-paste.md)
     * [Mural to Miro import guide – PDF](migrating-content-to-miro/import-mural-boards-to-miro/02-mural-to-miro-import-guide-–-pdf.md)
