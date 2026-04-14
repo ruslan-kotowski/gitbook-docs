@@ -1,0 +1,7 @@
+{
+  "label": "Authentification unique (SSO)",
+  "position": 8,
+  "key": "enterprise-administration-security-compliance-single-sign-on-sso",
+  "collapsible": true,
+  "collapsed": true
+}

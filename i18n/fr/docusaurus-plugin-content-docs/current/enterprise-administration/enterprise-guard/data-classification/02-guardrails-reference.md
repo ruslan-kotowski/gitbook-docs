@@ -1,0 +1,38 @@
+---
+title: "R\xE9f\xE9rence des garde-fous"
+article_id: 28839068735890
+translation_id: 28839068735890
+locale: fr
+sidebar_position: 1
+created_at: '2025-08-18T09:35:15Z'
+updated_at: '2025-11-25T15:53:21Z'
+draft: false
+outdated: false
+user_segment_id: null
+user_segment: Everyone
+backstage_link:
+  entity_kind: capability
+  entity_id: content-classification-configuration
+---
+
+## Garde-fous pour la sécurité du contenu
+
+Le tableau suivant répertorie les garde-fous pour la sécurité du contenu pris en charge dans la version actuelle.
+
+|  |  |  |
+| --- | --- | --- |
+| **Garde-fou** | **Description** | **Utilisateurs concernés** |
+| **Bloquer la réplication du contenu** | - Les options pour gérer la réplication du contenu dans l'interface utilisateur de Miro et les APIs Miro ne sont pas disponibles. Par exemple, l'option pour mettre à jour qui peut copier le contenu du tableau n'est pas disponible dans l'interface utilisateur et l'option pour mettre à jour l'accès de copie via l'API de mise à jour de tableau n'est pas disponible.  - Les options pour la réplication de contenu ne sont pas disponibles dans l'interface utilisateur de Miro. Cela comprend :     - Dupliquer un tableau vers d'autres     équipes des utilisateurs     - Télécharger les fichiers sur le tableau     - Télécharger les images sur le tableau     - Télécharger des PDF sur le tableau     - Copier du contenu ou des objets depuis      le tableau vers un autre tableau     - Exporter des tableaux sous forme d’image     - Exporter des tableaux sous forme de PDF     - Enregistrer des tableaux comme modèle personnalisé      modèle     - La réplication de contenu via les API est      non disponible. L'API renvoie un      erreur 403 comme réponse. | Le propriétaire et les copropriétaires du tableau ne sont pas restreints. Le propriétaire et les copropriétaires du tableau peuvent effectuer des actions de réplication de contenu car cela est nécessaire pour que le propriétaire du tableau puisse mettre à jour le tableau et créer des versions assainies des tableaux pour une collaboration ultérieure.  Tous les autres sont restreints. |
+| **Bloquer l’utilisation de Miro IA** | - Toutes les fonctionnalités de Miro IA sont désactivées, empêchant l'accès aux fonctionnalités pilotées par l'IA telle que la génération de texte, la reconnaissance d'images et les suggestions intelligentes.  - Les utilisateurs ne pourront pas interagir avec ou activer des outils alimentés par l'IA au sein de Miro.  - Le contenu existant généré par Miro IA reste inchangé, et les utilisateurs peuvent modifier ou étendre ce contenu. Cependant, les utilisateurs ne peuvent plus utiliser Miro IA pour modifier ou mettre à jour le contenu. | Toutes les personnes sont restreintes, y compris le propriétaire et les copropriétaires du tableau. |
+
+## Garde-fous du partage
+
+Le tableau suivant présente les garde-fous du partage pris en charge dans la version actuelle.
+
+|  |  |  |
+| --- | --- | --- |
+| **Garde-fou** | **Description** | **Utilisateurs concernés** |
+| **Bloquer le partage public** | - L’option permettant le partage avec *Toute personne ayant le lien* n’est pas disponible dans l’interface utilisateur de Miro.  - Le partage public via l'API n’est pas disponible. L'API renvoie une erreur 403 en réponse.  - Le blocage du partage public ne s'applique pas aux tableaux intégrés à l'aide du lien d'accès de Live Embed, car ces tableaux ne sont pas considérés comme étant partagés via un lien public. Pour plus d’informations, voir [Comment autoriser ou restreindre l’intégration de tableaux Miro dans les applications prises en charge.](../../managing-apps-on-enterprise-plan/05-how-to-allow-or-restrict-embedding-miro-boards-in-supported-apps.md) | Tous les utilisateurs sont restreints, y compris le propriétaire du tableau. |
+| **Bloquer le partage avec les équipes** | - L’option permettant le partage avec *toute personne dans l’équipe* n’est pas disponible dans l'interface utilisateur de Miro.  - Le partage avec les équipes via l'API n'est pas disponible. L'API renvoie une erreur 403 en réponse. | Tout le monde est restreint, y compris le propriétaire du tableau. |
+| **Bloquer le partage dans l’organisation** | - Option de partage avec *toute personne dans l’organisation* n’est pas disponible dans l’interface utilisateur de Miro.  - Le partage avec l’organisation via l'API n'est pas disponible. L'API renvoie une erreur 403 en réponse. | Tous les utilisateurs sont restreints, y compris le propriétaire du tableau. |
+| **Bloquer le partage en dehors des domaines autorisés** | - Le partage des tableaux par invitation directe par e-mail est limité aux utilisateurs dont les adresses e-mail appartiennent aux domaines autorisés figurant sur cette liste. Cette règle de sécurité n'affecte pas l'accès accordé via des liens d'équipes, d'organisation ou publics, car ceux-ci sont contrôlés par des règles de sécurité distinctes.  - Vous pouvez ajouter jusqu'à 20 domaines autorisés dans cette liste.  - Cette règle de sécurité est conçue pour fonctionner avec le paramètre [**Sécurité > Partage > Domaines autorisés**](../data-security/07-sharing-policy-on-enterprise-plan.md), qui peut être configuré à la fois aux niveaux de l'organisation et de l'équipe. Cela signifie que si vous avez activé le paramètre **Domaines autorisés**, vous devez vous assurer que le domaine avec lequel vous souhaitez autoriser le partage de tableaux figure à la fois dans le paramètre de garde-fous intelligents et dans le paramètre [**Sécurité > Partage > Domaines autorisés**](../data-security/07-sharing-policy-on-enterprise-plan.md).   **Notes :**  - Si le tableau a déjà été partagé avec des adresses e-mail qui ne figurent pas sur cette liste, les utilisateurs qui ont déjà accès au tableau continueront d'y avoir accès.  - Les utilisateurs existants qui ont déjà accès à un tableau, mais qui ne figurent pas dans la liste des domaines autorisés, sont indiqués dans l'interface de gestion de l'accès aux tableaux. Vous pouvez supprimer manuellement l'accès de ces utilisateurs. - Vous pouvez facilement consulter les informations concernant les restrictions de domaine appliquées via la page de la fonctionnalité de classification.   **Exemple 1 :** **Sécurité > Partage > Domaines autorisés :** miro.com, gmail.com  **Domaines autorisés des garde-fous :** miro.com  ***Résultat :*** Le partage de tableaux via invitation directe par e-mail est limité aux e-mails se terminant par miro.com. Bien que gmail.com soit autorisé dans le paramètre Sécurité > Partage > Domaines autorisés, il n’est pas permis par le garde-fou.  **Par exemple :** **Sécurité > Partage > Domaines autorisés :** miro.com, gmail.com  **Domaines autorisés par le garde-fou :** example.org, example.com  ***Résultat :*** Le partage de tableaux via invitation par e-mail direct n'est pas autorisé pour aucun domaine car il n'y a pas de correspondance entre les deux listes. | Le partage de tableaux via invitation directe par e-mail est limité aux utilisateurs dont les adresses e-mail appartiennent aux domaines autorisés sur cette liste. Ce garde-fou n'affecte pas l'accès accordé via des liens d'équipe, d'organisation ou publics, car ceux-ci sont contrôlés par des garde-fous distincts.  Si le tableau a déjà été partagé avec des adresses e-mail qui ne figurent pas sur cette liste, les personnes qui ont déjà accès au tableau continueront à y avoir accès.   Ce garde-fou est conçu pour fonctionner avec le paramètre [**Sécurité > Partage > Domaines autorisés**](../data-security/07-sharing-policy-on-enterprise-plan.md), qui peut être configuré tant au niveau de l'organisation qu'à celui de l'équipe. Consultez la colonne des descriptions pour des explications détaillées et des exemples. |

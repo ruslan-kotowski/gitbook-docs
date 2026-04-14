@@ -1,0 +1,32 @@
+---
+title: Guardrails reference
+article_id: 28839068735890
+sidebar_position: 2
+created_at: '2025-08-18T09:35:15Z'
+updated_at: '2025-11-25T15:53:21Z'
+draft: false
+user_segment_id: null
+user_segment: Everyone
+---
+
+## Content security guardrails
+
+The following table lists the content security guardrails supported in the current release.
+
+|  |  |  |
+| --- | --- | --- |
+| **Guardrail** | **Description** | **Users affected** |
+| **Block content replication** | - Options to manage content replication in both the Miro UI and the Miro APIs are not available. For example, the option to update who can copy board content is not available in the UI and the option to update copy access via the update board API is not available.  - Options for content replication are not available in the Miro UI. This includes:     - Duplicating a board to other     users' teams     - Downloading files on the board     - Downloading images on the board     - Downloading PDFs on the board     - Copying content or objects from      the board to another board     - Exporting boards as an image     - Exporting boards as PDF     - Saving boards as a custom      template     - Content replication via APIs are      not available. The API returns an      error 403 as a response. | The board owner and co-owners are not restricted. The board owner and co-owners can perform content replication actions as this is needed for the board owner to update the board and create sanitized versions of the boards for further collaboration.  Everyone else is restricted. |
+| **Block Miro AI usage** | - All Miro AI features are disabled, preventing access to AI-driven functionalities such as text generation, image recognition, and smart suggestions.  - Users will not be able to interact with or activate any AI-powered tools within Miro.  - Existing Miro AI-generated content remains unchanged, and users can modify or expand this content. However, users can no longer use Miro AI to edit or update the content. | Everyone is restricted, including the board owner and co-owners. |
+
+## Sharing guardrails
+
+The following table lists the sharing guardrails supported in the current release.
+
+|  |  |  |
+| --- | --- | --- |
+| **Guardrail** | **Description** | **Users affected** |
+| **Block public sharing** | - Option to share with *Anyone with the link* is not available in the Miro UI.  - Public sharing via API is not available. The API returns an error 403 as a response.  - Block public sharing is not applicable to boards embedded using the access-link of Live Embed as these boards are not considered to be shared via public link. For more information, see [How to allow or restrict embedding Miro boards in supported apps.](../../managing-apps-on-enterprise-plan/05-how-to-allow-or-restrict-embedding-miro-boards-in-supported-apps.md) | Everyone is restricted, including the board owner. |
+| **Block sharing with teams** | - Option to share with *Anyone at Team* is not available in the Miro UI.  - Sharing with teams via API is not available. The API returns an error 403 as a response. | Everyone is restricted, including the board owner. |
+| **Block sharing with organization** | - Option to share with *Anyone at Organization* is not available in the Miro UI.  - Sharing with organization via API is not available. The API returns an error 403 as a response. | Everyone is restricted, including the board owner. |
+| **Block sharing outside allowed domains** | - Board sharing via direct email invitation is limited to users whose email addresses belong to the allowed domains on this list. This guardrail does not affect access granted through team, organization, or public links as those are controlled by separate guardrails.  - You can add up to 20 allowed domains in this list.  - This guardrail is designed to work with the [**Security > Sharing > Allowed domains**](../../canvas-25-admin-features/data-security/07-sharing-policy-on-enterprise-plan.md) setting, which can be configured at both the organization and team levels. This means that if you have the **Allowed Domains** setting enabled, you must ensure that the domain you'd like to allow sharing boards to is listed in both the Intelligent Guardrails setting and the [**Security > Sharing > Allowed domains**](../../canvas-25-admin-features/data-security/07-sharing-policy-on-enterprise-plan.md) setting.   **Notes:**  - If the board was already shared with email addresses that are not on this list, the users who already have access to the board will continue to have access.  - Existing users who already have access to a board, but are not in the domain allowed list are indicated in the Manage board access UI. You can remove access for these users manually. - You can easily view information about domain restrictions applied via the Classification page.   **Example 1:** **Security > Sharing > Allowed domains:** miro.com, gmail.com  **Guardrail Allowed Domains:** miro.com  ***Outcome:*** Board sharing via direct email invitation is limited to emails ending in miro.com. Although gmail.com is allowed in the Security > Sharing > Allowed domains setting, it isn’t permitted by the guardrail.  **Example 2:** **Security > Sharing > Allowed domains:** miro.com, gmail.com  **Guardrail Allowed Domains:** example.org, example.com  ***Outcome:*** Board sharing via direct email invitation is not allowed for any domain because there’s no overlap between the two lists. | Board sharing via direct email invitation is limited to users whose email addresses belong to the allowed domains on this list. This guardrail does not affect access granted through team, organization, or public links as those are controlled by separate guardrails.  If the board was already shared with email addresses that are not on this list, the people who already have access to the board will continue to have access.   This guardrail is designed to work with the [**Security > Sharing > Allowed domains**](../../canvas-25-admin-features/data-security/07-sharing-policy-on-enterprise-plan.md) setting, which can be configured at both the organization and team levels. See the description column for detailed description and examples. |

@@ -1,0 +1,88 @@
+---
+title: Mermaid diagrams for Miro
+article_id: 7004628130962
+sidebar_position: 4
+created_at: '2022-08-05T13:57:10Z'
+updated_at: '2026-04-07T13:56:32Z'
+draft: false
+user_segment_id: null
+user_segment: Everyone
+availability:
+  roles: all_users
+  plans: free, starter, business, enterprise, education
+  platforms: browser, desktop
+backstage_link:
+  entity_kind: capability
+  entity_id: mermaid-diagrams
+---
+
+With the Mermaid app, you can easily create and embed rich, code-based diagrams directly within your Miro boards. This allows you to visualize complex systems, workflows, or data structures using a simple text-based syntax, enhancing collaboration and understanding.
+
+![Demonstration of changing Mermaid diagram code and seeing a live preview in the Miro app.](images/21017683206802_mermaid%20diagrams.gif)*Changing a diagram code and seeing the preview update in real-time*
+
+## Install the Mermaid app
+
+You can install the Mermaid app from the Miro Marketplace or directly from the Creation toolbar within a Miro board.
+
+To install from the Miro Marketplace:
+
+1. Navigate to the [Miro Marketplace](http://miro.com/marketplace) or follow [this direct link to the Mermaid app](https://miro.com/marketplace/mermaid/).
+2. Select a Miro team to complete the installation.
+
+You can also install the app from the Creation toolbar:
+
+1. In the Creation toolbar on the left of your board, select **Tools, Media and Integrations** (**+**). The **Tools, Media and Integrations** panel will open.
+2. In the **Tools** tab, search for and select **Mermaid Diagrams**.
+3. The **Mermaid Diagrams** app panel will open, and the app will be added to your toolbar.
+
+:::note
+Non-admin users cannot install apps if app installation is restricted in the team settings.
+:::
+
+## Create and add diagrams to Miro boards
+
+Once installed, the Mermaid app allows you to generate diagrams using text-based code and add them to your board as images.
+
+After installation, you will find the Mermaid app on your Creation toolbar. The app opens with a default sample code. As you modify the code to build your diagram, it refreshes in the preview area on the right, allowing you to see your changes in real-time.
+
+The Mermaid app includes several sample diagrams, accessible from the bottom left corner of the app panel. You can select one of these samples and then customize it to fit your needs.
+
+You can change the size of the code editor pane by dragging its right edge.
+
+![Resizing the code editor panel for Mermaid diagrams by dragging its edge.](images/21017653585426_change%20the%20panel%20width.gif)
+*Changing the size of the code editor pane*
+
+When you have finished building your diagram, click **Add to board**. The diagram will be added to your board as an image.
+
+![Mermaid diagram being added to a Miro board as an image.](images/21017653586578_mermaid%20diagram%20added.gif)
+*Adding a diagram to the board*
+
+## Edit existing diagrams
+
+You can also modify Mermaid diagrams that are already on your Miro board.
+
+1. Click the Mermaid diagram image on your board to select it.
+2. Click the **Mermaid** icon in the context menu that appears (or find it on the Creation toolbar).
+3. The Mermaid editor will open with the diagram's code. Make your changes in the code editor.
+4. Click **Update Diagram**.
+5. You will be returned to your Miro board, and the diagram on the board will be updated with your changes.
+
+## Additional information
+
+Here are some additional resources and details for working with Mermaid diagrams in Miro.
+
+### Mermaid syntax and documentation
+
+The Mermaid app uses a specific syntax to generate diagrams from text. For detailed information on the syntax, including supported diagram types and options, please consult the [official Mermaid documentation](https://mermaid-js.github.io/mermaid/). You can also access a link to this documentation from the bottom left corner of the Mermaid app panel within Miro.
+
+### Sharing and exporting diagrams
+
+Once a Mermaid diagram is added to your board, it functions as an image. You can download this image directly from the board if needed. To collaborate with others, you can [share the Miro board containing the diagram](../../sharing-boards/03-sharing-boards-and-inviting-collaborators.md).
+
+### Data processing
+
+When you create or edit a Mermaid diagram, the code is rendered client-side in your browser using the Mermaid.js library. The generated diagram image is then stored on Miro's servers as part of your board content. Your diagram code is not sent to any external server for rendering.
+
+Both the original diagram code and the resulting image are embedded within Miro board widgets, in the same way as other board content. This ensures full compatibility with Miro's collaboration and content management features.
+
+All data remains fully within Miro’s infrastructure—nothing is shared or transmitted outside the Miro environment. All data generated by the app is encrypted with customer's Enterprise Key Management (EKM) keys.

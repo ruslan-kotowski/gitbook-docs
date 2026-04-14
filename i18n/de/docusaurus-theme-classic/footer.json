@@ -1,0 +1,54 @@
+{
+  "link.title.Help Center": {
+    "message": "Hilfecenter",
+    "description": "The title of the footer links column with title=Help Center in the footer"
+  },
+  "link.title.Resources": {
+    "message": "Ressourcen",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.title.Miro": {
+    "message": "Miro",
+    "description": "The title of the footer links column with title=Miro in the footer"
+  },
+  "link.item.label.Getting Started": {
+    "message": "Erste Schritte",
+    "description": "The label of footer link with label=Getting Started linking to /docs/getting-started/start-here/your-first-board/create-a-miro-board"
+  },
+  "link.item.label.Using Miro": {
+    "message": "Die Verwendung von Miro",
+    "description": "The label of footer link with label=Using Miro linking to /docs/using-miro/essential-tools/connection-lines"
+  },
+  "link.item.label.Administration": {
+    "message": "Verwaltung",
+    "description": "The label of footer link with label=Administration linking to /docs/administration/get-started-as-a-miro-admin/i-am-a-new-miro-admin.-where-to-start"
+  },
+  "link.item.label.Integrations & Apps": {
+    "message": "Integrationen & Apps",
+    "description": "The label of footer link with label=Integrations & Apps linking to /docs/integrations-apps/integrations-basics/embed-integrations-on-a-miro-board"
+  },
+  "link.item.label.Plans & Billing": {
+    "message": "Preispläne & Abrechnung",
+    "description": "The label of footer link with label=Plans & Billing linking to /docs/plans-billing/miro-plans/business-plan"
+  },
+  "link.item.label.Enterprise": {
+    "message": "Enterprise",
+    "description": "The label of footer link with label=Enterprise linking to /docs/enterprise-administration/enterprise-subscription-management/get-started/getting-started-&-prerequisites"
+  },
+  "link.item.label.Miro Website": {
+    "message": "Miro-Website",
+    "description": "The label of footer link with label=Miro Website linking to https://miro.com"
+  },
+  "link.item.label.Community": {
+    "message": "Community",
+    "description": "The label of footer link with label=Community linking to https://community.miro.com"
+  },
+  "link.item.label.Developer Portal": {
+    "message": "Entwicklerportal",
+    "description": "The label of footer link with label=Developer Portal linking to https://developers.miro.com"
+  },
+  "copyright": {
+    "message": "© 2026 Miro. Alle Rechte vorbehalten.",
+    "description": "The footer copyright"
+  }
+}
