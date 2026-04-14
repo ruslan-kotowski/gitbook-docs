@@ -5,8 +5,6 @@ sidebar_position: 8
 created_at: '2024-10-21T23:29:24Z'
 updated_at: '2025-11-25T16:22:33Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Creating a legal hold is a critical process for [eDiscovery Admins](../../enterprise-subscription-management/enterprise-guard-overview/03-understand-admin-roles-and-their-privileges.md) when litigation or an investigation is expected. Legal holds ensure that relevant Miro boards are preserved and protected from alteration, deletion, or removal. This is essential for maintaining compliance with legal and regulatory requirements, preventing the loss or modification of critical data, and safeguarding key evidence throughout the duration of the legal matter. A legal hold allows admins to lock down data, ensuring that all relevant Miro boards are available for review whenever necessary.

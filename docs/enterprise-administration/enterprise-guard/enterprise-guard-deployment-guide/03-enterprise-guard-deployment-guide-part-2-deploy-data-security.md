@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2024-02-19T09:32:48Z'
 updated_at: '2025-11-25T15:41:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   notes: 'Relevant teams: Example teams you may need to partner with to deploy Data
     Security features include Data Protection, Data Loss Prevention, Governance and

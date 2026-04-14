@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2024-07-23T13:05:23Z'
 updated_at: '2025-06-27T17:25:34Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: remember-me
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education

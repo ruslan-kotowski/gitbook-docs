@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2019-02-11T10:11:27Z'
 updated_at: '2026-03-12T09:00:43Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: template-library
 availability:
   plans: browser version, [Desktop app](../../apps-for-devices/05-desktop-app.md),
     [Tablet app](../../apps-for-devices/11-tablet-app.md)

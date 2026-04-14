@@ -5,13 +5,8 @@ sidebar_position: 16
 created_at: '2024-07-24T19:52:05Z'
 updated_at: '2026-04-07T14:09:20Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   plans: Desktop and interactive displays
-backstage_link:
-  entity_kind: capability
-  entity_id: custom-shapes
 ---
 
 Custom shape packs enable you to tailor diagrams to specific industry or project needs, improving clarity and relevance.

@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-11-10T14:17:30Z'
 updated_at: '2026-03-17T08:39:20Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 At Canvas 25, we announced the AI Innovation Workspace with visual AI workflows and collaborative AI agents on the canvas. In addition to the end-user features, we are introducing new admin capabilities to give you more visibility, smarter controls, and seamless ways to unlock Miro’s newest AI tools for your teams.

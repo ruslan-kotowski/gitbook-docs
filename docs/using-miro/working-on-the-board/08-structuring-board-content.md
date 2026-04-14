@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2019-02-11T10:12:15Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-list-grid
 ---
 
 Working on an infinite whiteboard canvas, it's hard to resist the temptation to fill it with infinite content. But having strategic thinking is crucial when arranging board content. We've outlined several ways to structure board content and show relations between objects on the board.

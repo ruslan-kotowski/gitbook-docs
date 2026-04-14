@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2021-10-29T07:16:38Z'
 updated_at: '2026-01-06T19:04:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-participants-and-user-profile-popup
 ---
 
 Go to Miro Profile settings to manage your name and photo and set up personal preferences. Follow [the link](https://miro.com/app/settings/user-profile) or access the settings from your [dashboard](https://miro.com/app/dashboard/): click your profile icon in the top-right corner and select **Settings**.

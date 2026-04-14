@@ -5,8 +5,6 @@ sidebar_position: 7
 created_at: '2024-09-26T11:34:45Z'
 updated_at: '2025-11-27T12:42:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Privacy-related data discovery involves the periodic scanning of all the Miro boards in your organization to identify and locate sensitive information that might be subject to privacy regulations, such as credit card numbers, national ID numbers, driver's license numbers, and banking information. By systematically exploring and analyzing your organization's Miro boards, you can proactively identify potential risks associated with sensitive data. Enabling privacy-related data discovery not only helps prevent non-compliance issues but also mitigates risks associated with data sprawl and leakage across your enterprise, without impeding business operations.

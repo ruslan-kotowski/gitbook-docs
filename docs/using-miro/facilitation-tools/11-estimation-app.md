@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2022-05-20T11:28:11Z'
 updated_at: '2025-11-25T16:08:42Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: estimation
 availability:
   plans: starter, business, enterprise
   roles: team members with editing rights on the board

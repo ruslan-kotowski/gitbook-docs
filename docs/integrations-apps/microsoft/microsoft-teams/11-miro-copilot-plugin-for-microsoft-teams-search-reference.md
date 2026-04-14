@@ -5,11 +5,6 @@ sidebar_position: 11
 created_at: '2024-09-18T12:46:23Z'
 updated_at: '2025-04-24T13:52:02Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: slack-ms-teams
 ---
 
 *WRITER'S NOTE—ADRIEL: Debatable whether we need this. Keeping in 'Awaiting review' status until we decide to publish or archive.*

@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2024-08-29T07:50:57Z'
 updated_at: '2024-10-25T14:20:01Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: sign-in-passwordless-magic-link
 ---
 
 Miro now supports authentication via Magic Link. Instead of signing in with an email and password combination, users can now simply enter their email to receive a Magic Link to their email inbox. Clicking on this link automatically signs the user into Miro. This functionality provides a number of enhancements to your users’ security, including:

@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2020-03-24T12:09:00Z'
 updated_at: '2025-08-05T07:33:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: All Miro users, users on paid Airtable plans
   platforms: browser

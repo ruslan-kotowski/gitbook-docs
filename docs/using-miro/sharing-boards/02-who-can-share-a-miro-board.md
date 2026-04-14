@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2021-11-10T15:56:53Z'
 updated_at: '2026-01-06T19:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: comments
 ---
 
 By default, when you invite **members of your team** to **edit** your boards, they can also [change how the board is shared](03-sharing-boards-and-inviting-collaborators.md), invite new members and change access levels (view, comment, edit) of existing collaborators. On paid and Education plans, you can collaborate with additional confidence on Miro boards with advanced board sharing permissions.

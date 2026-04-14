@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2025-10-11T01:51:51Z'
 updated_at: '2025-12-12T18:15:01Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
 id: 05-miro-prototypes-tips-and-best-practices
 availability:
   roles: All members with [Miro Prototypes add-on](../../miroverse/prototyping/01-miro-prototypes-overview.md)

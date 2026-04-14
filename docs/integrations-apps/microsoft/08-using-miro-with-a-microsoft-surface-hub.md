@@ -5,11 +5,6 @@ sidebar_position: 9
 created_at: '2021-09-21T05:07:23Z'
 updated_at: '2025-11-25T16:07:20Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ms-teams
 ---
 
 Use Miro with your Microsoft Surface Hub device for remote, in-person, and hybrid collaboration with your team. Learn more about using Miro on Surface Hubs below.

@@ -5,8 +5,6 @@ sidebar_position: 13
 created_at: '2024-05-28T19:01:48Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Content lifecycle dashboard allows [Data Governance Admins](../../enterprise-subscription-management/enterprise-guard-overview/03-understand-admin-roles-and-their-privileges.md) to view all boards with a retention policy applied, including those that are automatically moved to the trash. When you click the **Retention** header in the Content lifecycle dashboard, the **Retention and disposition** page appears where you can:

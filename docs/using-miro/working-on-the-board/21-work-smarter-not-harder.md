@@ -5,11 +5,6 @@ sidebar_position: 21
 created_at: '2019-02-19T11:12:15Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: mini-map
 ---
 
 Miro gives you almost infinite possibilities of working with objects on a board, so here are some tips on how to achieve your goals easier and faster.

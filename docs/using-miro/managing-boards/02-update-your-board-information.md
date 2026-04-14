@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2024-11-15T18:19:44Z'
 updated_at: '2026-01-06T19:02:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-details-dialog
 ---
 
 Updating your board information helps keep your boards organized and easy to find. Board information includes the name of your board, description, classification, owner, creation and modification dates, location, and options for changing the thumbnail.

@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2020-07-03T10:27:14Z'
 updated_at: '2025-12-29T09:21:11Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: sticky-notes
 ---
 
 Miro aims to enable startups to work effectively together, from brainstorming with digital sticky notes to planning and visualizing ideas to bring your business to life. Learn about our Miro Startup Prrogram, applicant qualifications, and how to apply.

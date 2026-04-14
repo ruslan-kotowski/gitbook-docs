@@ -5,8 +5,6 @@ sidebar_position: 14
 created_at: '2019-02-11T10:14:40Z'
 updated_at: '2025-02-26T11:37:43Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 If you experience problems when using Miro on a hybrid device with touchscreen or with a digital pen, please make sure to check your browser settings. Note that the steps suggested here are only useful for a browser.

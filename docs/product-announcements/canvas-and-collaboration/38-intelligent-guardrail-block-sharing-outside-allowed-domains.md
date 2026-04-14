@@ -5,11 +5,6 @@ sidebar_position: 40
 created_at: '2025-01-23T21:29:10Z'
 updated_at: '2025-01-24T19:45:46Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: content-classification-configuration
 ---
 
 Admins can set up lists of permitted domains per board classification level and automatically restrict sharing outside of allowed domains to ensure a safer collaborative environment.

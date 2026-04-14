@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2025-07-08T09:58:18Z'
 updated_at: '2025-07-08T10:01:09Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: asana-cards
 ---
 
 We’ve released five new ticketing integrations—Asana, ClickUp, Linear, Rally, and Trello—to **P****ublic Beta**.

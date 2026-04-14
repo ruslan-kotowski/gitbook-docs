@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2024-11-07T12:58:01Z'
 updated_at: '2025-04-24T13:52:02Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: ms-teams
 ---
 
 Embed a Miro board into a MS Teams calendar invite, set permissions, and give access to collaborators before the meeting.

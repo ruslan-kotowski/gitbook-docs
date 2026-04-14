@@ -5,11 +5,6 @@ sidebar_position: 11
 created_at: '2019-02-11T10:09:11Z'
 updated_at: '2026-02-19T10:32:42Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-permissions
 ---
 
 The level of access a user has on your Enterprise Plan depends on their license type and Miro role. Review our guide below to see what level of access your users have.

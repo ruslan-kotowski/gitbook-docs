@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2019-02-11T10:12:46Z'
 updated_at: '2025-08-05T07:54:07Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education

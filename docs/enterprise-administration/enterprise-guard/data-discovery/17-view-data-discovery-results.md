@@ -5,8 +5,6 @@ sidebar_position: 17
 created_at: '2023-12-15T15:47:29Z'
 updated_at: '2025-11-25T15:40:15Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Data Discovery cycle runs at least once every hour and scans all boards updates for privacy-related information. This includes boards that were already scanned in the previous data discovery cycle.

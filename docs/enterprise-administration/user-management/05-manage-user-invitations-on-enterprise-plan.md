@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-02-11T10:09:16Z'
 updated_at: '2026-02-19T10:45:59Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: invitations
 availability:
   roles: company_admin
   notes: 'Relevant for: Enterprise Plan'

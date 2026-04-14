@@ -5,11 +5,6 @@ sidebar_position: 11
 created_at: '2024-09-06T15:25:10Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: sync-copy
 availability:
   plans: business, enterprise
 ---

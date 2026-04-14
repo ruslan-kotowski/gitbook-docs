@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2020-03-26T06:58:11Z'
 updated_at: '2025-11-25T15:57:19Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: template-library
 ---
 
 Miro is a natural fit for workshops and meetings and you can definitely use our product for such needs.

@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2025-04-08T11:21:07Z'
 updated_at: '2025-04-08T11:21:11Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: image-widget-gif
 availability:
   plans: Desktop browser, Desktop app, Tablet, Interactive display
 ---

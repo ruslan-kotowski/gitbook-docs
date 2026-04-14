@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2025-07-24T13:51:44Z'
 updated_at: '2025-07-24T14:39:43Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: template-picker
 ---
 
 You can now create Spaces templates and save them to your organization, team, or personal library. Transform your Spaces into reusable Blueprints for anyone in your organization to adopt.

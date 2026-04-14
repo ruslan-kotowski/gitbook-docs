@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2021-07-19T07:57:55Z'
 updated_at: '2025-02-26T12:28:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Analyze and customize your subscription usage at scale with the help of software asset management. The integration allows getting the list of non-active users and deactivating them from an asset management app.

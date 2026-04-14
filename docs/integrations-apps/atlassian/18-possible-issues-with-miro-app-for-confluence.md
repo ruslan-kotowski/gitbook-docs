@@ -5,11 +5,6 @@ sidebar_position: 21
 created_at: '2021-04-29T05:44:00Z'
 updated_at: '2026-03-20T14:10:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: confluence
 ---
 
 Use the troubleshooting tips below if you have run into an issue when using [Confluence plugin](https://help.miro.com/hc/articles/360020712594).

@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2025-11-12T21:41:45Z'
 updated_at: '2026-03-20T08:41:28Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: in-app-notifications
 availability:
   roles: company_admin, custom admin roles (if enabled)
   plans: enterprise

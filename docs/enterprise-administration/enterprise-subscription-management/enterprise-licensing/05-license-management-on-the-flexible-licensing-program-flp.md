@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2020-12-29T10:44:01Z'
 updated_at: '2026-02-23T18:22:02Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 availability:
   notes: 'Relevant for: Enterprise Plan'
 ---

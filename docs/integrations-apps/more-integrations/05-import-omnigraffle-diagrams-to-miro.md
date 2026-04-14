@@ -5,11 +5,6 @@ sidebar_position: 11
 created_at: '2026-02-23T15:00:35Z'
 updated_at: '2026-02-26T09:55:26Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: diagramming
 ---
 
 Easily import your diagrams from OmniGraffle into Miro and start collaborating in one unified tool. As OmniGraffle and Miro use different object models and styling systems, imported boards may not look exactly the same as the original files. You may need to review and adjust formatting after import. For more information, see the [Understand OmniGraffle object mapping in Miro](#understand-omnigraffle-object-mapping-in-miro) and [Known limitations](#known-limitations) sections.

@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2023-12-11T23:40:22Z'
 updated_at: '2026-03-17T08:48:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 In today's digital age, the exponential growth of data, especially sensitive information has become a significant concern for enterprises. Miro, known for its enterprise-ready, online collaboration workspace that fosters innovation and teamwork, has observed a substantial increase in the complexity and quantity of content within its boards. A notable number of Miro boards contain highly-sensitive data, such as Personal Identifiable Information (PII), Protected Health Information (PHI), Payment Card Information (PCI), and more, presenting challenges to managing risk and ensuring compliance. This trend highlights the importance of implementing advanced security and compliance measures to help prevent potential data breaches and intellectual property leaks.

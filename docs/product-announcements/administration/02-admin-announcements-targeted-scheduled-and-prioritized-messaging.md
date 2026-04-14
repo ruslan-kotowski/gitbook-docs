@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2026-03-19T13:28:50Z'
 updated_at: '2026-03-30T17:08:04Z'
 draft: false
-user_segment_id: 20452630573202
-user_segment: Team Admins (Premium)
 ---
 
 Admin announcements are now generally available, giving admins a centralized way to communicate targeted, time-bound messages across their organization. With admin announcements, admins can share important updates, promote training, support feature rollouts, and drive adoption by displaying banners on boards and the dashboard. Announcements can be targeted to the entire organization or a specific team, and scheduled to appear at the right time.

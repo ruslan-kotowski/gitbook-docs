@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-10-29T14:09:41Z'
 updated_at: '2026-02-23T11:23:44Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Linear integration is technically implemented through a REST API. For authentication and authorization purposes, it leverages the industry-standard OAuth 2.0 protocol. A core component of this architecture is a unified API platform used as a sub-processor for third-party data—managing authentication, normalization, and synchronization across different API providers.

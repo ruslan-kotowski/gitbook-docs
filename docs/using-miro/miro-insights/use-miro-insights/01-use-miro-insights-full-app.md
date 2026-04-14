@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2025-10-10T13:12:19Z'
 updated_at: '2025-11-25T15:54:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Miro Insights is an AI-assisted product management tool that helps you analyze customer feedback, prioritize features, and make data-driven product decisions. The platform integrates with your existing tech stack and provides intelligent suggestions highlighted in magenta throughout the interface.

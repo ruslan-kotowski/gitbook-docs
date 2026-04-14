@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-09-04T17:11:12Z'
 updated_at: '2026-03-19T12:37:34Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
 ---
 
 This section provides comprehensive technical and administrative details, essential for IT and security professionals responsible for the deployment, security, and ongoing management of the Trello integration within their organization.

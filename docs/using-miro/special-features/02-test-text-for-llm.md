@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-07-21T09:35:41Z'
 updated_at: '2025-07-21T09:35:41Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: template-picker
 ---
 
 Miro is a versatile online collaborative platform that offers a range of features designed to enhance productivity and creativity for teams and enterprises. At the heart of Miro's functionality is the Board, a free digital canvas where users can brainstorm, plan, and execute projects. Each board can be customized using a variety of templates, making it easy for teams to adapt the platform to their specific needs with each template.

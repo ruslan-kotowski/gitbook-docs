@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2024-02-19T09:19:59Z'
 updated_at: '2025-11-25T15:41:04Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Company Admins can grant themselves and others additional admin roles once Enterprise Guard is enabled. As a result, the number of Company Admins in your organization should be kept to a minimum. Carefully consider your existing admin configuration and move Company Admins to other roles (such as team or user admin) when appropriate to balance security, compliance, and operational efficiency.

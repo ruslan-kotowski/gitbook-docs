@@ -5,13 +5,8 @@ sidebar_position: 15
 created_at: '2021-11-22T18:58:30Z'
 updated_at: '2026-03-27T16:18:39Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   plans: Jira on-premise (Server / Data Center)
-backstage_link:
-  entity_kind: capability
-  entity_id: jira-cards
 ---
 
 Mutual Transport Layer Security allows establishing an even more secure connection between your Jira instance and Miro. The functionality is automatically supported on all Enterprise plans and does *not require any configuration on the Miro end.*

@@ -5,8 +5,6 @@ sidebar_position: 17
 created_at: '2024-06-14T19:49:31Z'
 updated_at: '2025-12-08T16:13:30Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 :::note

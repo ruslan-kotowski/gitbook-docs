@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2024-11-04T13:59:44Z'
 updated_at: '2025-08-22T19:14:08Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 OCR is a feature enabling automated recognition of text within images, facilitating data extraction for enhanced data discovery. The OCR support is optimized for high-quality images and is available across various languages with some considerations for handwritten content.

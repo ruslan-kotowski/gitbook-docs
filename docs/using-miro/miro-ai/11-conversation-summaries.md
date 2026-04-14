@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2024-08-09T09:12:41Z'
 updated_at: '2026-03-16T12:37:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: comments
 availability:
   roles: All users with Miro AI enabled
   plans: free, starter, business, enterprise, education

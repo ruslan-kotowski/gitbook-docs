@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-02-11T10:08:13Z'
 updated_at: '2025-11-25T15:58:08Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-permissions
 ---
 
 Miro uses role-based access control to manage what a user can see or do in the product. User roles are defined for boards, [Spaces](../../using-miro/spaces/01-spaces.md), teams, and companies. Some user roles may require a specific plan or a paid license.

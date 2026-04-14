@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2022-09-27T08:52:07Z'
 updated_at: '2025-11-25T16:09:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: talktrack
 availability:
   plans: Desktop browser, desktop app
   notes: 'Available browsers: Google Chrome, Safari, Firefox, and Edge'

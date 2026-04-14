@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2025-09-15T16:27:59Z'
 updated_at: '2026-01-12T11:21:56Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-granular-admin-settings
 ---
 
 With Miro AI moderation, Company Admins can adjust levels of filtering prompts that might contain potentially harmful or inappropriate text. You can set organization-wide Miro AI moderation sensitivity to filter content, including hate, sexual content, violence, and self-harm. This helps you align Miro AI usage with your organization's requirements, policies, and risk tolerance.

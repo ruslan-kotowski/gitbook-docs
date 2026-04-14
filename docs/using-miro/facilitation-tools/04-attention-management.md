@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2020-04-20T09:35:54Z'
 updated_at: '2025-06-03T22:31:07Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: attention-management
 availability:
   roles: all_users
   platforms: browser, desktop

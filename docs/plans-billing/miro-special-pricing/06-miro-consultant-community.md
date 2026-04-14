@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2023-05-22T14:47:40Z'
 updated_at: '2025-12-22T13:59:14Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 ---
 
 The Miro Consultant Community is a free program for consultants, coaches, facilitators, or freelancers using Miro in their client-facing work. By joining this community, you’ll gain access to a global network of peers from all stages of the Miro journey with whom you can connect to find the answers, resources, and advice needed to grow and scale your client base.

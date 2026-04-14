@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2024-06-11T13:49:03Z'
 updated_at: '2025-07-30T17:01:39Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: accessibility
 ---
 
 Ensuring accessibility for everyone is a core part of Miro's mission. Miro has developed tools to help you create experiences that everyone can participate in. The Miro Accessibility Checker is designed to help you ensure your Miro boards are as inclusive and accessible as possible.

@@ -5,15 +5,10 @@ sidebar_position: 3
 created_at: '2023-09-29T09:28:12Z'
 updated_at: '2025-11-25T15:38:19Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: all_users
   plans: free, starter, business, education, enterprise
   platforms: browser, desktop
-backstage_link:
-  entity_kind: capability
-  entity_id: drawio
 ---
 
 With the Miro-built Draw.io app, you can create and collaborate on various types of diagrams, uniting cross-functional teams, projects, and technical documents in a single workspace. This tool is ideal for crafting technical diagrams such as UML and ERD, designing server racks, and visualizing network and cloud architectures.

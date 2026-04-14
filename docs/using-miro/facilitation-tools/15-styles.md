@@ -5,11 +5,6 @@ sidebar_position: 15
 created_at: '2023-08-14T09:11:04Z'
 updated_at: '2025-11-25T16:22:33Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: brand-color
 availability:
   plans: free, starter, business, Enterprise and Education plans
 ---

@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2025-03-13T01:40:25Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: sticky-notes
 ---
 
 The new Miro design language provides important updates to the appearance of boards that improve accessibility and user experience.

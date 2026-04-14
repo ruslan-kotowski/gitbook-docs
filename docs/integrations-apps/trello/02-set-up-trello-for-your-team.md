@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-10-29T15:59:48Z'
 updated_at: '2026-02-23T11:40:59Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Trello integration is technically implemented through a REST API. For authentication and authorization purposes, the integration leverages the industry-standard OAuth 2.0 protocol. A key component of this architecture is the utilization of a unified API platform as a sub-processor for third-party data. This platform provides unified APIs that are responsible for authenticating, normalizing, and synchronizing data across various API providers.

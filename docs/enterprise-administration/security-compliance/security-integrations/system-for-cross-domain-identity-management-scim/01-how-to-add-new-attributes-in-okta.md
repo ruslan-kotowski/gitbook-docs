@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2022-04-19T07:09:53Z'
 updated_at: '2025-02-26T11:26:43Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 This article explains how to add new attributes when your Miro-Okta communication for SCIM and or SSO is already successfully configured.

@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2025-10-07T19:46:53Z'
 updated_at: '2026-02-16T13:58:45Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: creation-toolbar
 availability:
   roles: board_owner, board_editor, team_admin, User admins, Content admins, company_admin
   plans: Business + AI Workflows, Enterprise Advanced

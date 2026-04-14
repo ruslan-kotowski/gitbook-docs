@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-10-10T14:19:01Z'
 updated_at: '2025-10-14T13:36:24Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Miro Insights is available directly on your Miro boards as a convenient side panel, allowing you to access your product data and add items to your canvas without leaving your workspace.

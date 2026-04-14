@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-10-19T21:41:27Z'
 updated_at: '2026-03-12T09:18:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: guests
 ---
 
 The Overview dashboard provides insights that enable you to track adoption and understand your organization's activity through the following metrics:

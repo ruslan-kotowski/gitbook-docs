@@ -5,11 +5,6 @@ sidebar_position: 30
 created_at: '2024-07-25T10:47:38Z'
 updated_at: '2024-09-26T13:39:36Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-granular-admin-settings
 ---
 
 Admins now have two options for rolling out Intelligent Guardrails in their organization:

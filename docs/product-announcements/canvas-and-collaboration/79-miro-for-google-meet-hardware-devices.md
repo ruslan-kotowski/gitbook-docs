@@ -5,11 +5,6 @@ sidebar_position: 81
 created_at: '2024-09-04T07:02:43Z'
 updated_at: '2024-09-30T09:53:56Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: google-meet
 ---
 
 Take advantage of Miro’s collaboration features in a hybrid environment, with a new app for [Series One Board 65 and Desk 27 devices by Avocor](https://www.avocor.com/google/) enabling working in hybrid environments with Google Meet.

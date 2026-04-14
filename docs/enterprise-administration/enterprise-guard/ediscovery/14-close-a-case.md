@@ -5,8 +5,6 @@ sidebar_position: 14
 created_at: '2024-10-22T15:59:52Z'
 updated_at: '2025-11-25T16:22:15Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Closing a case is the final stage in the eDiscovery process, marking the conclusion of a legal matter or investigation. [eDiscovery Admins](../../enterprise-subscription-management/enterprise-guard-overview/03-understand-admin-roles-and-their-privileges.md) must ensure that all associated legal holds within the case are closed before closing the case.

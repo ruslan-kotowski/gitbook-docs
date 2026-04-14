@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2025-05-12T13:13:07Z'
 updated_at: '2026-04-10T08:56:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: All members with [Miro Prototypes add-on](../../miroverse/prototyping/01-miro-prototypes-overview.md)
   plans: starter, business, enterprise

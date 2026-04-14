@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2019-02-11T10:11:02Z'
 updated_at: '2026-01-19T14:08:30Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: sticky-notes
 ---
 
 Stickies capture allows you to convert real stickies to fully editable [Miro sticky notes](../../essential-tools/14-sticky-notes.md). Share them and collaborate in real-time, turn them into [Jira tasks](../../../integrations-apps/atlassian/03-jira-cards.md) or make a part of digital diagrams, [templates](../../../getting-started/start-here/your-first-board/04-templates.md), and more.

@@ -5,11 +5,6 @@ sidebar_position: 21
 created_at: '2023-03-02T13:29:36Z'
 updated_at: '2026-03-16T12:37:03Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: sticky-notes
 availability:
   plans: free, starter, education, business, enterprise
 ---

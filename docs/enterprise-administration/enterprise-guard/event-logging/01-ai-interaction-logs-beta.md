@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2026-03-15T21:28:41Z'
 updated_at: '2026-03-16T09:09:18Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 AI interaction logs allow admins with the Enterprise Guard add-on to collect and review records of Miro AI usage across their organization. By enabling AI interaction logs, admins can provide security, compliance, and governance teams with greater visibility into how AI features are used and what information is processed by AI systems.

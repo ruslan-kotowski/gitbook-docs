@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-08-09T09:52:43Z'
 updated_at: '2026-03-16T07:58:52Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: creating-team
 ---
 
 When getting started with Miro and registering your profile, you can create your first Miro team or join someone's team. As your product usage grows, you may want to create additional teams to be able to separate work on different projects.

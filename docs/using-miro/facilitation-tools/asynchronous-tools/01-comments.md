@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2019-02-11T10:11:58Z'
 updated_at: '2025-11-25T16:02:27Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: comments
 ---
 
 Boost team collaboration with comments. Share thoughts and ideas directly on your boards, engage in meaningful discussions, and make every project more interactive and productive.

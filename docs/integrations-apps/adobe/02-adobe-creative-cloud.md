@@ -5,9 +5,6 @@ created_at: '2019-02-11T10:14:09Z'
 updated_at: '2025-09-17T19:23:29Z'
 draft: false
 position: 1
-backstage_link:
-  entity_kind: capability
-  entity_id: adobe-cc
 sidebar_position: 1
 availability:
   roles: all_users

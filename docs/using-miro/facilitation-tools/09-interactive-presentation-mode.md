@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2022-11-10T14:35:57Z'
 updated_at: '2025-11-25T16:09:33Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: shareable-presentation
 availability:
   plans: desktop browser, desktop app, tablet browser, mobile app
   roles: board_owner, board co-owners, board_editor

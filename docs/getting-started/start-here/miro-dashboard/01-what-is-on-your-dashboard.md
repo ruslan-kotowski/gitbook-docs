@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2019-02-11T10:08:41Z'
 updated_at: '2026-03-16T07:58:52Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: dashboard-space-page
 ---
 
 The [Dashboard](https://miro.com/app/dashboard/) is your main workspace in Miro. You use it to navigate between your teams, [Spaces](../../../using-miro/spaces/01-spaces.md), and boards. From the dashboard, you have quick access to your profile settings, [team settings](../../../administration/get-started-as-a-miro-admin/01-i-am-a-new-miro-admin.-where-to-start.md), projects, any boards shared with you within a selected team, and all boards you have starred across your entire profile. The dashboard is also where you can [create a new board](../your-first-board/01-create-a-miro-board.md), search through your existing boards, upload [board backups](../../../using-miro/import-and-export/export/05-how-to-save-board-backup.md), and organize your boards.

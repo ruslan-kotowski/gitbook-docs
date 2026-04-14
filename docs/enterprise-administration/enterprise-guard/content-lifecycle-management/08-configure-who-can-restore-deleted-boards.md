@@ -5,8 +5,6 @@ sidebar_position: 8
 created_at: '2024-05-28T18:14:56Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 You can allow only admins, or both board owners and admins to restore deleted boards by performing the following steps:

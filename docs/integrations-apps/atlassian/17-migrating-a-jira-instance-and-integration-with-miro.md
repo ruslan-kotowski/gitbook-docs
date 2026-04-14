@@ -5,11 +5,6 @@ sidebar_position: 20
 created_at: '2025-02-25T10:19:27Z'
 updated_at: '2026-03-20T14:10:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: jira-cards
 availability:
   roles: Company admin with Jira System Admin role
 ---

@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2024-11-04T13:39:02Z'
 updated_at: '2025-04-24T13:52:02Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: slack-ms-teams
 availability:
   plans: free, starter, business, enterprise, education
   roles: All users. Requires Microsoft admin setup.

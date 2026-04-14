@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2025-08-20T13:33:21Z'
 updated_at: '2026-03-18T12:29:19Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: diagramming
 availability:
   roles: billing_admin, company_admin
   plans: starter, business, enterprise

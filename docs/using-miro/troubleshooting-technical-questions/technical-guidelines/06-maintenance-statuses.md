@@ -5,8 +5,6 @@ sidebar_position: 7
 created_at: '2019-02-11T10:14:25Z'
 updated_at: '2026-03-06T13:37:49Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 We perform maintenance to ensure the uptime and the service consistency of Miro. In order to provide the best performance and security for our users, we have several types of maintenance.

@@ -5,8 +5,6 @@ sidebar_position: 7
 created_at: '2021-03-05T11:26:27Z'
 updated_at: '2025-06-30T08:26:05Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Ensuring the smoothest product experience remains our ultimate goal. We provide helpful resources to support every Miro user in their collaborative journey. Before contacting Support, try searching our [Help Center](https://help.miro.com/hc/en-us),[Miro Academy](https://academy.miro.com/), [Blog](https://miro.com/blog/), [Youtube channel](https://www.youtube.com/channel/UCfhGfgBKDcFI74bBJ9yjLDQ), and [Miro Webinars](https://go.miro.com/webinars).

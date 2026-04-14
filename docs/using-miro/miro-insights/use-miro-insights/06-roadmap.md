@@ -5,8 +5,6 @@ sidebar_position: 6
 created_at: '2025-10-10T13:53:49Z'
 updated_at: '2025-10-14T13:36:24Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Roadmap provides a strategic view of your product planning, helping you visualize and communicate your feature development timeline. It shows how your backlog items map to strategic initiatives and planned delivery periods.

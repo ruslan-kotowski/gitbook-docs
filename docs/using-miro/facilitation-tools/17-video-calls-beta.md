@@ -5,11 +5,6 @@ sidebar_position: 17
 created_at: '2024-10-15T11:26:02Z'
 updated_at: '2025-08-05T19:37:47Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: video-calls
 availability:
   plans: Chrome, Edge, Firefox, Safari
   roles: board_editor, board_owner, Commenters, company_admin, Content admins, Members,

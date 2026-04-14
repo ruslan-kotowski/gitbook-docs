@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2021-08-05T11:26:49Z'
 updated_at: '2025-11-25T16:06:50Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 [Miro's Splunk integration](https://splunkbase.splunk.com/app/5677) allows Enterprise customers to export two types of log data into Splunk for advanced security monitoring, compliance reporting, and operational analysis across the organization. This integration supports:

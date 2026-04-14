@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-04-08T09:42:19Z'
 updated_at: '2025-04-15T10:30:35Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: box-dropbox
 availability:
   roles: All users with Personal or Enterprise Box accounts
   plans: free, starter, business, education, enterprise

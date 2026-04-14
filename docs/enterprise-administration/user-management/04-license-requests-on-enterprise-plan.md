@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2024-03-15T08:43:14Z'
 updated_at: '2026-02-19T10:46:59Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: access-request-management
 availability:
   plans: enterprise
   roles: Company Admin or User Admin

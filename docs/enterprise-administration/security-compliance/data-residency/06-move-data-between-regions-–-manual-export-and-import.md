@@ -5,8 +5,6 @@ sidebar_position: 6
 created_at: '2025-02-20T09:07:00Z'
 updated_at: '2025-11-25T15:49:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: board_owner, Board co-owners, Content admins, company_admin
   plans: enterprise

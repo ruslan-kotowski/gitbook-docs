@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2026-03-17T10:49:50Z'
 updated_at: '2026-03-19T14:00:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Priority announcements are displayed ahead of other announcements to ensure important messages are seen first.

@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-02-11T10:09:31Z'
 updated_at: '2025-06-23T13:26:46Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: organization-consolidation
 availability:
   roles: company_admin, team_admin
   plans: business, enterprise

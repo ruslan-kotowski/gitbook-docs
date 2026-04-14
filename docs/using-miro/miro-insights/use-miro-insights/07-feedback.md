@@ -5,8 +5,6 @@ sidebar_position: 7
 created_at: '2025-10-10T14:03:59Z'
 updated_at: '2025-11-25T15:54:42Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Feedback section provides visual analytics and insights into customer feedback patterns, helping you understand trends, identify top issues, and track the voice of your customers over time.

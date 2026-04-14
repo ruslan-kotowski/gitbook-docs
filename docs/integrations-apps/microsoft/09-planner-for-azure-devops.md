@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2023-11-23T14:12:19Z'
 updated_at: '2026-04-07T13:32:07Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: program-board-widget
 availability:
   notes: 'Available for: Education plan, Enterprise plan, Business plan'
 ---

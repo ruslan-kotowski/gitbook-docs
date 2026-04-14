@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2025-03-06T10:27:14Z'
 updated_at: '2025-11-25T15:49:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: powerbi
 ---
 
 :::note

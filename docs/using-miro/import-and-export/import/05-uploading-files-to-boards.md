@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-02-11T10:12:30Z'
 updated_at: '2026-01-29T13:57:20Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: export-embed
 availability:
   roles: '[Board editors](../../sharing-boards/01-board-access-rights.md)'
   plans: All Miro plans (Free plans unable to play embedded video)

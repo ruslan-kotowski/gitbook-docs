@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2025-10-13T09:15:09Z'
 updated_at: '2026-01-20T12:55:40Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: spaces
 ---
 
 Your [Space Overview](02-space-overview.md) is the default point of entry for anyone who accesses your Space. You can create a Dashboard to give the Overview a structured view of activity and content inside the Space.

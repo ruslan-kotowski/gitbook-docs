@@ -5,11 +5,6 @@ sidebar_position: 15
 created_at: '2019-02-11T10:13:25Z'
 updated_at: '2025-02-26T12:10:38Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: slack-ms-teams
 ---
 
 Get Slack notifications of new comments and mentions on your boards and other changes related to your profile, easily share your Miro boards from within Slack, and automatically unfurl board links. Read the article to learn how to connect your Slack to Miro and get access to all the nice features.

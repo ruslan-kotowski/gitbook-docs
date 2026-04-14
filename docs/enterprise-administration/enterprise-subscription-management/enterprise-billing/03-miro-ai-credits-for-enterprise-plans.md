@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2024-07-05T22:01:35Z'
 updated_at: '2026-03-04T08:33:33Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 For knowledge workers looking to innovate faster, **Miro AI** enhances workflows and collaboration. It integrates AI capabilities into Miro's platform to automate tasks like insight clustering, diagramming, and content creation. Unlike other visual collaboration tools, **Miro AI** helps teams leverage AI across a wider variety of workflows and across their existing processes more efficiently.

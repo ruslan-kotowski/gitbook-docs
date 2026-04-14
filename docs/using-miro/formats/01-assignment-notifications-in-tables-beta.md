@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2026-02-24T15:01:53Z'
 updated_at: '2026-03-13T12:26:15Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: tables
 availability:
   roles: Board owners Board editors
   plans: free, starter

@@ -5,11 +5,6 @@ sidebar_position: 16
 created_at: '2025-05-06T17:01:06Z'
 updated_at: '2025-05-26T08:55:18Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: content-explorer
 ---
 
 Enterprise Guard Admins can now use the Admin console to support eDiscovery workflows more effectively. They can:

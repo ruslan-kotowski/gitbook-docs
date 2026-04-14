@@ -5,8 +5,6 @@ sidebar_position: 20
 created_at: '2022-07-13T16:51:24Z'
 updated_at: '2025-02-26T11:52:14Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Users who leave their Miro boards open continually or have multiple boards running for long periods of time may find that they are logged out after a period of inactivity. This is because their Miro administrator has set an **Idle Session Timeout** value for security reasons. This setting is enabled for various reasons like protecting sensitive corporate information or preventing unauthorized accessing of Miro content. Setting this value means that if a user is inactive for a specified period of time, they will be required to login again to access their boards.

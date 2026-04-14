@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2025-12-16T09:44:56Z'
 updated_at: '2025-12-22T14:12:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 ---
 
 Welcome to the resource hub for founders, builders, and innovators looking to move from idea to outcome faster. Miro is the AI-powered innovation workspace where people and AI come together on one shared canvas, from deep research and ideation to design and launch.

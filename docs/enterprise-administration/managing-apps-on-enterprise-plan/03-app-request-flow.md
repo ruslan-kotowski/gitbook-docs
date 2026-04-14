@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2022-03-10T14:01:10Z'
 updated_at: '2025-11-25T16:08:14Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: app-request
 availability:
   plans: '[Enterprise plan](../../plans-billing/miro-plans/04-enterprise-plan.md)'
   notes: Admin console update in phased rollout Miro’s new admin console makes essential

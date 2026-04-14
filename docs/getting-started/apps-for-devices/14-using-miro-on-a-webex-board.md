@@ -5,11 +5,6 @@ sidebar_position: 14
 created_at: '2020-11-27T13:42:40Z'
 updated_at: '2025-11-25T16:03:26Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: interactive-displays
 ---
 
 Enhance your whiteboarding activity by using Miro on a Webex board. Set up the Miro app and easily start collaborating, presenting your ideas, and creating next big things!

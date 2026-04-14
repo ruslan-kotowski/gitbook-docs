@@ -5,11 +5,6 @@ sidebar_position: 12
 created_at: '2021-07-13T12:17:53Z'
 updated_at: '2025-11-25T16:06:23Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: webex
 availability:
   plans: all Miro plans and non-Miro users; available by default for all Webex plans
     and users, unless Webex apps are turned off by admin

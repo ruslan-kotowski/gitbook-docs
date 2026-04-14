@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-02-11T10:10:46Z'
 updated_at: '2026-04-13T13:34:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: creation-toolbar
 ---
 
 When creating a Miro board, the toolbars located around your screen give you access to useful tools, apps, and integrations for adding and editing the content you need.

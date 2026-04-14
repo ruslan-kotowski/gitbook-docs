@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2024-08-07T16:30:40Z'
 updated_at: '2026-01-19T14:08:30Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: export-pdf-canvas
 ---
 
 ServiceRocket’s Whiteboards.io Importer for Miro is a user-friendly solution designed to streamline importing data from the [Whiteboards.io](https://whiteboards.io/) app to [Miro](https://miro.com/app/dashboard/). Upload your Whiteboard-generated backups with haste and ease.

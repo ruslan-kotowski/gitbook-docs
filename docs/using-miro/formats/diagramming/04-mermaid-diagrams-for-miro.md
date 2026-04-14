@@ -5,15 +5,10 @@ sidebar_position: 4
 created_at: '2022-08-05T13:57:10Z'
 updated_at: '2026-04-07T13:56:32Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education
   platforms: browser, desktop
-backstage_link:
-  entity_kind: capability
-  entity_id: mermaid-diagrams
 ---
 
 With the Mermaid app, you can easily create and embed rich, code-based diagrams directly within your Miro boards. This allows you to visualize complex systems, workflows, or data structures using a simple text-based syntax, enhancing collaboration and understanding.

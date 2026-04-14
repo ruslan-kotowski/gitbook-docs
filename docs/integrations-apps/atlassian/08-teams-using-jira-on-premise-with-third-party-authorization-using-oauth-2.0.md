@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2025-03-31T11:33:06Z'
 updated_at: '2026-03-20T14:10:12Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: jira-cards
 ---
 
 Using a third-party server replaces the native authorization flow in Jira, and enables your organization to manage authentication externally for team members.

@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2025-06-13T08:24:28Z'
 updated_at: '2026-03-17T08:39:20Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The custom terms of service feature allows admins to display a custom Terms of Service dialog for all internal members of their Miro organization. This ensures users review and acknowledge your organization’s terms and policies before using Miro. Use this feature to inform users about acceptable-use policies for Miro features, including Miro AI. Admins can add multiple links to externally hosted policies and configure recurrence so users are prompted on a schedule that matches internal requirements. All actions related to custom terms of service are logged in the audit logs for traceability.

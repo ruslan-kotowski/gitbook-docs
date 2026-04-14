@@ -5,8 +5,6 @@ sidebar_position: 8
 created_at: '2024-08-20T08:12:36Z'
 updated_at: '2026-03-06T13:37:49Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 This reference article lists each domain that Miro uses in its SaaS application.

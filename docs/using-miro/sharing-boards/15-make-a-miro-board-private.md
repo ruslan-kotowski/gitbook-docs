@@ -5,11 +5,6 @@ sidebar_position: 15
 created_at: '2021-04-15T11:55:31Z'
 updated_at: '2026-01-06T19:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-roles-and-permissions
 availability:
   roles: board_owner
   plans: starter, business, enterprise, education

@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2022-07-29T11:49:52Z'
 updated_at: '2025-04-29T11:56:53Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-permissions
 ---
 
 Learn how to regain control of your Miro team if your Miro Admin has left the company.

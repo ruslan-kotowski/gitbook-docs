@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2019-02-11T10:14:55Z'
 updated_at: '2026-03-06T13:37:49Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 This article provides information about which desktop and mobile browsers Miro supports.

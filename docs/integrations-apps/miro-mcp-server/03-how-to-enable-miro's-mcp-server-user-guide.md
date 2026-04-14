@@ -5,11 +5,9 @@ sidebar_position: 3
 created_at: '2025-12-05T15:13:02Z'
 updated_at: '2025-12-08T12:29:46Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
-  notes: "For Enterprise accounts, enabling MCP requires admin approval. If you're\
-    \ in an Enterprise team, refer to the\_[Admin guide for Miro MCP](../miro-mcp-server-beta/04-miro-mcp-server-admin-guide.md)."
+  notes: For Enterprise accounts, enabling MCP requires admin approval. If you're
+    in an Enterprise team, refer to the [Admin guide for Miro MCP](../miro-mcp-server-beta/04-miro-mcp-server-admin-guide.md).
 ---
 
 > For Enterprise accounts, enabling MCP requires admin approval. If you're in an Enterprise team, refer to the [Admin guide for Miro MCP](../miro-mcp-server-beta/04-miro-mcp-server-(admin-guide).md).

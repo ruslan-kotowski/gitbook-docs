@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2025-05-22T11:26:15Z'
 updated_at: '2025-08-18T09:36:23Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Classification dashboard provides a centralized view for administrators to track and manage the classification of boards across their organization. The dashboard provides a clear breakdown of classified and not yet classified boards, helping ensure comprehensive coverage and identify areas needing attention.

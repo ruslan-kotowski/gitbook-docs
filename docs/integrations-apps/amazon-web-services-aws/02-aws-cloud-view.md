@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2024-07-02T14:13:55Z'
 updated_at: '2026-02-20T14:01:29Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: cloudveiw
 availability:
   plans: business, and Enterprise with Advanced license
 ---

@@ -5,8 +5,6 @@ sidebar_position: 13
 created_at: '2019-02-11T10:14:22Z'
 updated_at: '2024-10-25T14:25:54Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 If you didn’t receive a confirmation code or password reset email, there could be a number of reasons why. The information below can help resolve the situation by giving you options to try.

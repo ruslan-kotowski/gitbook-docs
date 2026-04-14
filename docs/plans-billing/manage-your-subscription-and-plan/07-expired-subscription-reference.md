@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2019-02-11T10:09:41Z'
 updated_at: '2025-06-23T13:43:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: admin-analytics
 availability:
   roles: team_admin, Content admins, billing_admin, company_admin
   plans: free, starter, business

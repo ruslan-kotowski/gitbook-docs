@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2025-10-28T16:06:24Z'
 updated_at: '2026-04-10T08:52:49Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Miro Prototypes helps product teams turn early ideas into interactive prototypes faster — moving from concept to a clear direction before design or code.

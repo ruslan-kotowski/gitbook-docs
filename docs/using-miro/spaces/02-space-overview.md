@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-09-25T11:57:59Z'
 updated_at: '2026-01-23T08:31:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-roles-and-permissions
 availability:
   roles: Space Owners, Space Co-owners
   plans: starter, business, enterprise, education

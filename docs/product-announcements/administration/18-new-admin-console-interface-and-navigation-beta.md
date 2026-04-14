@@ -5,11 +5,6 @@ sidebar_position: 22
 created_at: '2024-11-20T09:34:26Z'
 updated_at: '2024-12-03T14:34:50Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: admin-analytics
 ---
 
 The Miro Admin Console is getting a new look and navigation to enhance efficiency and deliver Miro at scale. The changes include:

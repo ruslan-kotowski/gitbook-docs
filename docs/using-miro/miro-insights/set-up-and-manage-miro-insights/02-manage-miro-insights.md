@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-10-10T10:34:48Z'
 updated_at: '2025-11-25T15:54:09Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 This guide covers ongoing administrative tasks for Miro Insights, including general settings, team management, notifications, and API access. This is for Company Admins who need to manage Miro Insights after the initial setup is complete.

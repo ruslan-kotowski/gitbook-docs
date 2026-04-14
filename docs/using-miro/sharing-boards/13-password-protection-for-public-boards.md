@@ -5,11 +5,6 @@ sidebar_position: 13
 created_at: '2020-06-22T10:42:25Z'
 updated_at: '2026-01-06T19:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-roles-and-permissions
 availability:
   roles: board_owner, [board co-owners](06-co-owners-of-boards-and-spaces.md), and
     Company Admins on Enterprise plans with [Content Admin](../../enterprise-administration/managing-enterprise-teams-and-content/12-content-admin-permissions.md)

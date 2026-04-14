@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2025-04-08T15:00:21Z'
 updated_at: '2025-05-07T11:29:05Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: dependencies
 ---
 
 !!!Test article!!!

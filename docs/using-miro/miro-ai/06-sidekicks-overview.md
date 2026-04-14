@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2025-10-01T18:07:04Z'
 updated_at: '2026-03-16T12:42:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: collaborators-cursors
 availability:
   roles: team_member
   plans: free, starter, education, business, enterprise

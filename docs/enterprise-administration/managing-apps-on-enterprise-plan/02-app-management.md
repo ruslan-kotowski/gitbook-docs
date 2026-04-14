@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2021-08-03T15:46:50Z'
 updated_at: '2026-01-29T10:00:08Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: apps-management
 availability:
   roles: team_admin, company_admin
   notes: 'Relevant for: Business Plan, Enterprise Plan'

@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2023-11-29T16:42:42Z'
 updated_at: '2025-11-25T15:39:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 To support you in protecting your sensitive content, Enterprise Guard includes the auto-classification feature—an automated data classification process, categorizing Miro boards based on the level of its sensitive content. Auto-classification represents a significant advancement in the way you manage and protect your sensitive data. Automating the classification process helps your organization maintain a higher level of data security, comply with regulatory requirements, and provide a better security admin experience. The transition from manual to automatic classification is a strategic move towards a more accurate, secure, and efficient data security framework.

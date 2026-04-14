@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2021-07-07T07:38:29Z'
 updated_at: '2025-12-22T13:59:14Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 ---
 
 Miro Experts are top level consultants, agencies and freelancers that use Miro to deliver their services. Miro Experts are listed in the Experts directory. Every Miro Expert has an [Expert Miroverse profile page](../../using-miro/miroverse/03-miroverse-profiles.md#miroverse-profile-pages-for-miro-experts) allowing our user base to find and contact them to help with their business needs.

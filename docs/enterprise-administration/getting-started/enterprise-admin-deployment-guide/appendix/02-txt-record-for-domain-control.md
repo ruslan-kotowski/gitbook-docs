@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2024-10-11T10:01:26Z'
 updated_at: '2025-01-16T09:39:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 To verify your domain with Domain Control, use the following specifications to compose your TXT record:

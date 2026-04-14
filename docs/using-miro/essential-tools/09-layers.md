@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2024-07-19T16:48:16Z'
 updated_at: '2025-11-25T15:44:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: layers
 availability:
   roles: board_owner, Board co-owners, board_editor
   plans: free, starter, business, enterprise, education

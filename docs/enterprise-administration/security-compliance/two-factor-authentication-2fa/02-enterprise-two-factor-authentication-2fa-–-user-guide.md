@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2022-10-04T09:00:42Z'
 updated_at: '2025-11-06T13:50:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   notes: 'Relevant for: Starter, Business, Education, Enterprise'
 ---

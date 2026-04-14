@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2026-02-13T14:59:08Z'
 updated_at: '2026-04-10T07:47:26Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 To make it easier to choose the right capabilities for different teams and workflows, Miro is introducing Standard and Advanced Enterprise licenses.

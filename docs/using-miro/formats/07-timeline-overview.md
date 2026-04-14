@@ -5,11 +5,6 @@ sidebar_position: 17
 created_at: '2025-12-22T18:16:05Z'
 updated_at: '2026-03-13T12:26:15Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: timeline-widget
 availability:
   plans: Desktop, mobile, interactive displays
 ---

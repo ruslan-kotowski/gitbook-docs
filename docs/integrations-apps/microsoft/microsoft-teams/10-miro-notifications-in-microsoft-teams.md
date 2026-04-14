@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2021-07-15T05:59:22Z'
 updated_at: '2025-04-24T13:52:02Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: ms-teams
 ---
 
 Get Miro notifications as chat messages inside Microsoft Teams (MS Teams). Stay informed, share boards, and manage work quickly without switching apps.

@@ -1,12 +1,10 @@
 ---
-title: "Domain control \u2013 Business and Enterprise plans"
+title: Domain control – Business and Enterprise plans
 article_id: 24537366637714
 sidebar_position: 3
 created_at: '2025-02-10T10:28:46Z'
 updated_at: '2026-03-23T15:36:26Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 An Enterprise plan enables full domain control. Enterprise admins can audit, monitor, and manage all activity and data inside their subscription, including users, authentication, integrations, and more. A Business plan provides basic user management and security.

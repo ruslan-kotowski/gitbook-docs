@@ -5,8 +5,6 @@ sidebar_position: 7
 created_at: '2025-05-21T18:42:19Z'
 updated_at: '2025-11-25T15:51:44Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 1. Click your profile avatar, and then click **Admin console**.

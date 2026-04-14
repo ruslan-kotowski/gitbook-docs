@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-02-11T10:14:49Z'
 updated_at: '2025-12-08T10:38:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: export-pdf-canvas
 ---
 
 Easily transform your Miro boards into images, PDFs, or CSV files, ideal for sharing with colleagues, clients, or for documentation.

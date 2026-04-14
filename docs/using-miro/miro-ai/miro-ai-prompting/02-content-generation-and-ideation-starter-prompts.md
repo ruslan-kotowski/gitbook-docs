@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-11-04T19:28:00Z'
 updated_at: '2025-11-05T21:23:55Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 New to Miro AI? Start with ready-made prompts for content generation and ideation. Each use case explains what it’s for and includes copy-ready Miro AI prompts.

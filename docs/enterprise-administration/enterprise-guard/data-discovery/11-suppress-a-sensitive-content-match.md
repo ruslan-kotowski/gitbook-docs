@@ -5,8 +5,6 @@ sidebar_position: 11
 created_at: '2024-02-20T00:16:59Z'
 updated_at: '2025-11-25T15:41:28Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 In the process of data discovery, you might encounter situations where the system generates matches that, while technically accurate, may not be relevant or regarded as sensitive data based on various security policies and specific needs of an organization. Suppressing a match that does not pose a security or privacy risk becomes crucial for tailoring the data discovery process to an organisation’s specific data security and privacy requirements.

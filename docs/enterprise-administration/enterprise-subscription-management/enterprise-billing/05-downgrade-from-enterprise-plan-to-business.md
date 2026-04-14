@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2025-07-29T08:26:41Z'
 updated_at: '2025-07-29T09:01:05Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: upgrade-and-downgrade-flows
 availability:
   roles: company_admin
   plans: enterprise

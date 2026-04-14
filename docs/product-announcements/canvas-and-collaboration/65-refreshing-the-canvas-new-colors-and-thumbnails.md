@@ -5,11 +5,6 @@ sidebar_position: 67
 created_at: '2024-11-27T11:50:16Z'
 updated_at: '2025-04-01T07:48:05Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: sticky-notes
 ---
 
 As part of our ongoing effort to enhance the Miro experience, we’re refreshing the canvas design with updates that improve accessibility, flexibility, and visual appeal. These changes include an expanded color palette and redesigned board thumbnail icons, offering users greater customization and a more vibrant interface.

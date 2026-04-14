@@ -5,11 +5,6 @@ sidebar_position: 9
 created_at: '2020-10-23T12:49:04Z'
 updated_at: '2025-02-26T11:39:08Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: google-calendar-addon
 ---
 
 Facilitate your meetings and workshops in Miro faster, easier, smoother with the Miro add-on for Google Calendar! Now you can easily attach Miro boards to your Google events and share the boards with your meeting participants with just a few clicks.

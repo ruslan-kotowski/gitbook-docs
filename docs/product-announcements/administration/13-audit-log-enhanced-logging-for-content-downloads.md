@@ -5,11 +5,6 @@ sidebar_position: 17
 created_at: '2025-05-06T16:46:45Z'
 updated_at: '2026-01-13T13:47:40Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: audit-logs
 ---
 
 Enterprise admins now have greater visibility into content downloads from their boards. Audit logs will include events for file downloads and board exports, helping teams maintain better oversight and compliance. These updates reflect enhanced visibility into existing actions.

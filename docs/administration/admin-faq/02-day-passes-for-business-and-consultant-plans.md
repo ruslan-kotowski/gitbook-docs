@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2019-02-11T10:10:06Z'
 updated_at: '2024-08-23T12:25:27Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: business-consultant-plans
 availability:
   notes: 'guests: . Consultant and Business plan users can add unlimited external
     guests with edit access to specific boards, free of charge. [Learn more](../../using-miro/sharing-boards/07-collaboration-with-guests.md).'

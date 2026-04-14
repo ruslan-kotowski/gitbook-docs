@@ -5,11 +5,6 @@ sidebar_position: 19
 created_at: '2019-02-11T10:12:07Z'
 updated_at: '2025-04-24T16:57:23Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: voting
 availability:
   plans: Browser version, [Desktop app](../../getting-started/apps-for-devices/05-desktop-app.md),
     [Tablet app](../../getting-started/apps-for-devices/11-tablet-app.md)

@@ -5,11 +5,6 @@ sidebar_position: 19
 created_at: '2019-02-11T10:14:38Z'
 updated_at: '2026-03-20T14:10:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: jira-cards
 ---
 
 If you run into an issue while installing or using [Jira Сards](https://help.miro.com/hc/articles/360017572434) or [Jira Add-on](https://help.miro.com/hc/articles/360017572414-Jira-Add-on) this guide can help.

@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-02-11T10:10:38Z'
 updated_at: '2025-11-25T15:58:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: connection-to-board
 ---
 
 :::tip

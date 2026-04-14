@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-06-24T07:36:23Z'
 updated_at: '2025-11-06T13:29:29Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: 2fa
 availability:
   notes: 'Relevant for: Starter, Business, Education, Enterprise'
 ---

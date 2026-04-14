@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2021-10-31T09:35:07Z'
 updated_at: '2025-04-24T17:00:36Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: breakout-frames
 availability:
   plans: select users on Business, education, enterprise
   roles: board_owner, board co-owners; editors can join

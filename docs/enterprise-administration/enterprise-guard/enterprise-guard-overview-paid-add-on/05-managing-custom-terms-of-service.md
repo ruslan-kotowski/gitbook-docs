@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2025-06-24T23:29:13Z'
 updated_at: '2026-03-17T08:39:20Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 ## Creating custom terms of service

@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2019-02-11T10:12:00Z'
 updated_at: '2025-11-25T16:02:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: mention-canvas
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education

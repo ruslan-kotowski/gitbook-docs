@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2020-05-06T08:17:24Z'
 updated_at: '2025-04-01T16:57:11Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Explore tips to improve board performance during collaborative sessions and on large boards, and troubleshoot issues like slow performance and navigation, board freezing and endless loading.

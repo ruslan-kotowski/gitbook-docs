@@ -5,8 +5,6 @@ sidebar_position: 6
 created_at: '2024-03-25T14:30:00Z'
 updated_at: '2024-08-23T09:42:17Z'
 draft: true
-user_segment_id: 4408401633042
-user_segment: Test user segment
 ---
 
 This is a test for new HT

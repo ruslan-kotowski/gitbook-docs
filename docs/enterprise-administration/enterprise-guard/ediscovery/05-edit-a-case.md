@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2025-07-09T17:30:17Z'
 updated_at: '2025-11-25T15:52:40Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Editing a case allows eDiscovery Admins to keep case details accurate and aligned with the evolving scope of a legal matter. As investigations progress, it may be necessary to update the case name or description to reflect changes in focus, terminology, or internal documentation standards.

@@ -5,8 +5,6 @@ sidebar_position: 19
 created_at: '2024-06-14T19:52:35Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Deleting a disposition policy will remove all its associated disposition dates for boards. As a result, boards that were linked to this policy will no longer be automatically moved to the Trash.

@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2025-06-27T15:37:31Z'
 updated_at: '2025-07-23T14:38:04Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
 ---
 
 [Wikipedia Miro](https://en.wikipedia.org/wiki/Miro_(collaboration_platform))

@@ -5,8 +5,6 @@ sidebar_position: 14
 created_at: '2021-03-03T12:28:20Z'
 updated_at: '2025-11-25T16:04:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   plans: all Miro plans and all Post-it® users
 ---

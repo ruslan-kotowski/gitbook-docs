@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2026-03-05T18:19:41Z'
 updated_at: '2026-03-05T18:23:58Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
 ---
 
 Custom labels in **Data Discovery** now support **Prototype screens** as a widget type condition. Admins can configure labels to automatically apply when Prototype screens are detected on a board, extending data discovery coverage to prototype content alongside other supported widget types such as Jira cards, Azure cards, and code blocks.

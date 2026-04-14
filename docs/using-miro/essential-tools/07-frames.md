@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2019-02-19T11:07:59Z'
 updated_at: '2025-11-25T16:03:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: frames
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education

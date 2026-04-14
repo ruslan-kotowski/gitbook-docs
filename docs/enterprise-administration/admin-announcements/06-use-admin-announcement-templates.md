@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2026-03-17T10:12:29Z'
 updated_at: '2026-03-20T08:41:02Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 You can use templates to quickly share product updates, support feature rollouts, and promote adoption by turning existing update cards from What’s new in Miro into announcements. When you click Announce, the announcement is pre-populated with content from the selected update.

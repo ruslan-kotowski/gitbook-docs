@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2020-04-03T11:15:45Z'
 updated_at: '2026-01-06T19:04:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: template-picker
 availability:
   roles: board_owner
   plans: starter, business, enterprise, education

@@ -5,11 +5,6 @@ sidebar_position: 12
 created_at: '2024-05-03T12:06:35Z'
 updated_at: '2025-11-25T15:42:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: google-meet
 ---
 
 Unlock the potential of dynamic collaboration through the Miro add-on on your Google Meet Series One Boards. This feature is perfect for activities like brainstorming, ideation, diagramming, and conducting retrospectives. The Miro add-on is available for both Board 65 and Desk 27 models.

@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2021-04-19T10:47:31Z'
 updated_at: '2026-01-06T19:02:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: delete-board
 availability:
   roles: board_owner, [Content Admins](../../enterprise-administration/managing-enterprise-teams-and-content/12-content-admin-permissions.md)
     on Enterprise plan

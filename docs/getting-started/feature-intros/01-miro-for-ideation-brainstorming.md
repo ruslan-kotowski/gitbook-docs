@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2021-07-21T12:35:37Z'
 updated_at: '2025-02-26T11:27:56Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: template-library
 ---
 
 From sticky notes to reactions - Miro tools help you go creative and enhance the brainstorming process. Share your ideas, discuss and develop with your team together online.

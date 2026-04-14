@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2020-05-22T16:29:32Z'
 updated_at: '2025-02-24T09:59:28Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 To avoid interruption of notifications from Miro, ensure that the following mailers are allowed:

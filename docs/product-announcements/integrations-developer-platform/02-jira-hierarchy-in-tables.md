@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2026-01-14T10:02:24Z'
 updated_at: '2026-03-17T08:21:51Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: tables
 ---
 
 You can now import Jira issues to Miro in the [Table](../../using-miro/formats/14-tables.md) Format. Toggle nested view for parent and child issues, and change the table layout, for example to Tree layout.

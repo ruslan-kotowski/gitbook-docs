@@ -5,11 +5,6 @@ sidebar_position: 35
 created_at: '2025-02-18T14:18:32Z'
 updated_at: '2025-02-25T18:50:52Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: spaces
 ---
 
 Space owners and co-owners will now have the **Editor** role over child content (Boards) instead of the **Co-owner** role, regardless of the 'co-owner' feature setting. This change addresses a security issue.

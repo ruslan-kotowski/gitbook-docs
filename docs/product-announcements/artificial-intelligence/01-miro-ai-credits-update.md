@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2025-09-19T07:24:52Z'
 updated_at: '2025-09-19T08:39:25Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 ---
 
 Starting October 1st 2025, Miro AI credits will renew on the 1st of each calendar month for all organizations, regardless of contract start date.

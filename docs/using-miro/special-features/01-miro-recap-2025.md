@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2025-12-03T17:10:42Z'
 updated_at: '2025-12-08T15:00:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Your Miro Recap is a personalized summary of your year in Miro: your stats, your top collaborators, and your unique working style, and more. It's a chance to look back on your ideas and contributions, celebrate your teamwork, and discover how you got great done in 2025.

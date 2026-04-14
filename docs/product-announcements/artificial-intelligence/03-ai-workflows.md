@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2026-02-12T12:49:52Z'
 updated_at: '2026-02-12T12:54:56Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-sidekicks
 ---
 
 Starting in February, AI Workflows will transition from public beta to a paid add-on. The add-on unlocks access to Flows and Sidekicks — powerful tools for building AI-powered workflows and generating structured content directly on the canvas.

@@ -5,11 +5,6 @@ sidebar_position: 18
 created_at: '2019-02-11T10:11:52Z'
 updated_at: '2025-11-25T15:59:30Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: video-chat
 availability:
   plans: starter, business, enterprise
   roles: editors who were explicitly invited to the board [via email](../sharing-boards/03-sharing-boards-and-inviting-collaborators.md#inviting-via-email) or

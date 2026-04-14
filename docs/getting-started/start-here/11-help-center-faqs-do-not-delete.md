@@ -5,11 +5,6 @@ sidebar_position: 11
 created_at: '2022-11-01T13:01:48Z'
 updated_at: '2024-08-23T09:42:17Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: help-center
 ---
 
 #### ***Why won’t my board load?***

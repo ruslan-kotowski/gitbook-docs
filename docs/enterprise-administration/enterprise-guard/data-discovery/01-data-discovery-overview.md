@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2023-11-24T06:49:08Z'
 updated_at: '2026-03-04T22:56:29Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Data discovery plays a pivotal role in ensuring robust data security within an enterprise. This critical process involves the periodic scanning of all the Miro boards in your organization to automate the identification and labeling of Miro boards containing privacy-related data or business-sensitive information.

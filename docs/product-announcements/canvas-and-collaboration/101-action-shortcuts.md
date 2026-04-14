@@ -5,11 +5,6 @@ sidebar_position: 103
 created_at: '2024-05-02T14:53:39Z'
 updated_at: '2025-05-01T13:39:28Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: action-button
 ---
 
 **Action Shortcuts** allow users to place pre-defined actions on a board so that those actions can be taken with the click of a button during a meeting or presentation.

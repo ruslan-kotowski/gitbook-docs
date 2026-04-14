@@ -5,11 +5,6 @@ sidebar_position: 15
 created_at: '2024-07-05T15:01:41Z'
 updated_at: '2026-03-13T12:26:15Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: timeline-widget
 id: 10-timeline-(beta)
 availability:
   plans: ''

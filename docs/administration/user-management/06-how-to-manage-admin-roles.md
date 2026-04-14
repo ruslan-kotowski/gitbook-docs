@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2021-06-03T07:04:43Z'
 updated_at: '2025-11-25T16:04:45Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-permissions
 ---
 
 In Miro, there are two levels of settings: Team settings, which are managed by the Team Admin, and Company settings, which are managed by the Company Admin. We recommend having a minimum of two Company Admins and Team Admins. For more information on Admin roles and their privileges, [read our documentation](../get-started-as-a-miro-admin/02-understand-admin-roles-and-their-privileges.md).

@@ -5,8 +5,6 @@ sidebar_position: 7
 created_at: '2024-12-06T10:29:45Z'
 updated_at: '2025-04-24T07:50:23Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
 ---
 
 Miro provides data residency in Australia, the European Union (EU), and the United States (US).

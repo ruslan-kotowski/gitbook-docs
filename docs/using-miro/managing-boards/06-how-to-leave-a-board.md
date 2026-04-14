@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2019-02-11T10:11:46Z'
 updated_at: '2026-01-06T19:02:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: leave-board
 availability:
   plans: starter, business, enterprise, education
 ---

@@ -5,11 +5,6 @@ sidebar_position: 9
 created_at: '2022-12-06T15:06:50Z'
 updated_at: '2024-08-23T12:34:00Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: tableau
 availability:
   roles: Tableau admin
   plans: '[Free](../../plans-billing/miro-plans/09-free-plan.md), [Starter](../../plans-billing/miro-plans/08-starter-plan.md),

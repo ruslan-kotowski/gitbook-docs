@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2024-09-16T13:04:04Z'
 updated_at: '2025-12-29T12:25:20Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: bring-your-own-ai
 availability:
   roles: All Miro users with a paid Microsoft Copilot license
   plans: All Miro plans (paid Microsoft Copilot license and compatible Microsoft 365

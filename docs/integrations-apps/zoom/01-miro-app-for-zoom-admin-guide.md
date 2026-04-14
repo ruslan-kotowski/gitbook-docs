@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2021-05-28T04:43:09Z'
 updated_at: '2025-02-26T11:51:29Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: zoom
 availability:
   plans: desktop version
   notes: '*For Zoom Business and Enterprise plans, admin may need to pre-approve the

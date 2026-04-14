@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-02-11T10:13:09Z'
 updated_at: '2026-03-20T14:10:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: jira-cards
 availability:
   plans: starter, business, education, enterprise
   roles: all_users

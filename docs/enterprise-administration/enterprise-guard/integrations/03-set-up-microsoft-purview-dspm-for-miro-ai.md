@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2025-08-11T19:20:50Z'
 updated_at: '2026-01-12T11:28:20Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Use this procedure to set up Microsoft Purview Data Security Posture Management (DSPM) for Miro AI so AI prompts and responses from Miro appear in Microsoft Purview’s DSPM for AI. After setup, you’ll validate events and learn how to manage the integration.

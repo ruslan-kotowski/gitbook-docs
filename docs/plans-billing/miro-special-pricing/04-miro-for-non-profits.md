@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2019-07-18T21:58:06Z'
 updated_at: '2025-12-22T13:59:14Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 ---
 
 If you represent a non-profit organization Miro is happy to provide you with better pricing conditions.

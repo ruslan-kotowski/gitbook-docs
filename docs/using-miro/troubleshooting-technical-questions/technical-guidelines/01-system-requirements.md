@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2019-02-11T10:14:54Z'
 updated_at: '2026-03-06T14:57:18Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 This article outlines system requirements for using Miro, including device, [GPU, and WebAssembly](#gpu-and-webassembly-requirements).

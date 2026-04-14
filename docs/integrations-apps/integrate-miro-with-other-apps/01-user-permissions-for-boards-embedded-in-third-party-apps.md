@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2021-12-08T10:13:42Z'
 updated_at: '2025-11-25T16:07:55Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: confluence
 availability:
   roles: board_owner, Board co-owners
   plans: free, starter, business, enterprise, education

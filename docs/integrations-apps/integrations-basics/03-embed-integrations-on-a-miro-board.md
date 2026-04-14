@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-02-11T10:12:26Z'
 updated_at: '2025-11-25T16:02:43Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: looker
 availability:
   plans: starter, business, education, enterprise
 ---

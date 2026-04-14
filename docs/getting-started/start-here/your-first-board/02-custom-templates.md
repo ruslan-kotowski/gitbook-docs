@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2021-01-21T10:22:00Z'
 updated_at: '2025-04-25T17:27:36Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: custom-template
 availability:
   plans: starter, business, enterprise, education
   roles: team_member

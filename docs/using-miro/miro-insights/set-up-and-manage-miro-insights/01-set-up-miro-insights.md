@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2025-10-10T10:26:28Z'
 updated_at: '2025-11-25T15:54:01Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Connecting your tools to Miro Insights is a crucial first step for getting real value. Integrations allow Miro Insights to automatically pull in customer feedback and relevant data from across your systems. This guide is for Company Admins who will enable these connections.

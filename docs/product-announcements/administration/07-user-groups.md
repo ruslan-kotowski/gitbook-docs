@@ -5,11 +5,6 @@ sidebar_position: 9
 created_at: '2025-10-06T12:28:57Z'
 updated_at: '2026-01-21T15:08:07Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: groups
 ---
 
 User Groups enables admins to create groups of users, which can be synchronised with their identity-provider (IDP). Admins can assign groups to teams and give groups access to specific content.

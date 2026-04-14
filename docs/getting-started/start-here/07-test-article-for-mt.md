@@ -5,8 +5,6 @@ sidebar_position: 7
 created_at: '2024-03-13T14:17:55Z'
 updated_at: '2025-02-26T11:17:12Z'
 draft: false
-user_segment_id: 4408401633042
-user_segment: Test user segment
 ---
 
 This is a test for the New MT workflow.

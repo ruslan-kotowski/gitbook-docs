@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-11-24T17:59:06Z'
 updated_at: '2026-04-02T09:24:29Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Admins can monitor and track the status of their encryption key management (EKM) configuration in the Miro Admin console. This brings greater transparency into key onboarding and encryption progress, helping you stay informed without needing additional support.

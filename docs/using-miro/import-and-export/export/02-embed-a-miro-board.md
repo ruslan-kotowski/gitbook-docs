@@ -5,15 +5,10 @@ sidebar_position: 2
 created_at: '2020-09-09T07:54:13Z'
 updated_at: '2025-09-19T09:07:47Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: board_editor
   plans: free, starter, business, enterprise, education
   platforms: Web, desktop, mobile
-backstage_link:
-  entity_kind: capability
-  entity_id: comments
 ---
 
 You can embed any Miro board or a specific item (frame or format) from the board in supported apps and websites so your teammates can work in context without switching tools.

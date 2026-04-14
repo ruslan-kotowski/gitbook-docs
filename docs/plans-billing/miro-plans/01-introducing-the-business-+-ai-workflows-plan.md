@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2026-02-12T10:07:48Z'
 updated_at: '2026-04-10T07:47:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-sidekicks
 ---
 
 Miro has introduced the Business + [AI Workflows](../../using-miro/miro-ai/02-miro-ai-workflows-overview.md) plan, which includes [Flows and Sidekicks, and several advanced features](#what-does-the-new-business-plan-include), that help teams coordinate, visualize, and automate their work.

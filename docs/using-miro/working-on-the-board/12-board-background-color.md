@@ -5,11 +5,6 @@ sidebar_position: 12
 created_at: '2023-05-08T09:34:44Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: background-grid-and-snapping
 availability:
   roles: board_editor
   plans: free, starter, business, enterprise, education

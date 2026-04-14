@@ -5,11 +5,6 @@ sidebar_position: 11
 created_at: '2025-09-09T12:12:08Z'
 updated_at: '2026-03-16T12:37:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-translate-to
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education

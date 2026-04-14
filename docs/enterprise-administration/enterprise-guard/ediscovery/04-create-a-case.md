@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2024-10-21T22:12:23Z'
 updated_at: '2025-11-25T16:22:33Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Creating a case for legal hold is the first critical step in the eDiscovery process when litigation or an investigation is anticipated. A case serves as the organizational foundation for managing the legal hold process, allowing for clear identification, documentation, and oversight of all activities related to data preservation. Without properly creating a case, the legal hold process lacks structure, which can result in the accidental loss or deletion of critical information, leading to potential legal risks and penalties.

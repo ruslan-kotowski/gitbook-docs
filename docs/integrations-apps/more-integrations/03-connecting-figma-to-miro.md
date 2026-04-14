@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2025-03-06T15:11:31Z'
 updated_at: '2025-11-25T15:50:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: figma-integration
 ---
 
 You can view your Figma content on a Miro board. To learn more about integrations, see [Embed integrations on a Miro board (BETA)](../integrations-basics/03-embed-integrations-on-a-miro-board.md).

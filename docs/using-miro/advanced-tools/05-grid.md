@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2020-02-18T12:06:52Z'
 updated_at: '2025-11-25T15:56:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: tables
 availability:
   plans: Browser, Desktop App, Tablet App
 ---

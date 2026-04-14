@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2025-05-28T11:33:40Z'
 updated_at: '2025-06-04T08:12:24Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: spaces
 ---
 
 The Glean x Miro integration is an exciting new feature that enhances the productivity and efficiency of collaborative sessions by leveraging Glean's Work AI platform within the Miro environment. Here are the key highlights of this integration:

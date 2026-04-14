@@ -5,8 +5,6 @@ sidebar_position: 12
 created_at: '2024-10-11T12:21:43Z'
 updated_at: '2025-11-25T16:22:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Closing a legal hold is one of the final steps in the eDiscovery process once the litigation or investigation has concluded. For [eDiscovery Admins](../../enterprise-subscription-management/enterprise-guard-overview/03-understand-admin-roles-and-their-privileges.md), this process involves releasing the Miro boards and custodians that were under legal hold, allowing the preserved boards to return to normal operations. Closing a legal hold ensures that data management processes can resume as usual, and the system can archive or delete information that is no longer required to be preserved for legal purposes. Once the hold is lifted, the content can be managed according to the organization's retention policies. By efficiently closing a legal hold, eDiscovery Admins help their organization maintain compliance while optimizing the management of Miro boards and reducing unnecessary data retention.

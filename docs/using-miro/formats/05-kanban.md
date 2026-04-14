@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2025-09-02T19:42:54Z'
 updated_at: '2026-03-13T12:26:15Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: kanban-usm
 availability:
   roles: All logged-in users
   plans: free, starter, business, enterprise, education

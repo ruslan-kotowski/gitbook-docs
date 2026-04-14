@@ -5,8 +5,6 @@ sidebar_position: 8
 created_at: '2025-10-10T14:05:18Z'
 updated_at: '2025-11-25T15:54:50Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Companies section helps you view and manage all organizations that have provided feedback or are associated with features in your backlog. This customer-centric view enables account-based product management and strategic decision-making.

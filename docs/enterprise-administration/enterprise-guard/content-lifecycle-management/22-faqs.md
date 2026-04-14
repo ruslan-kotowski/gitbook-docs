@@ -5,8 +5,6 @@ sidebar_position: 22
 created_at: '2024-05-28T18:15:32Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 **Are team members notified when a board is automatically and permanently deleted from the Trash?**

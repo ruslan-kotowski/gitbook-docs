@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2026-01-05T10:20:56Z'
 updated_at: '2026-02-17T09:37:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: bring-your-own-ai
 availability:
   roles: company_admin
   plans: business, enterprise

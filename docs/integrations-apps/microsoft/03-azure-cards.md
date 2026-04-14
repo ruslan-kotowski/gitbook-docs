@@ -5,15 +5,10 @@ sidebar_position: 4
 created_at: '2019-08-13T10:01:30Z'
 updated_at: '2026-04-07T13:28:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: all_users
   plans: business, enterprise
   platforms: browser, desktop, mobile
-backstage_link:
-  entity_kind: capability
-  entity_id: azure-cards
 ---
 
 Azure Cards allow you to import work items from Azure Boards (a part of Azure DevOps services, formerly VSTS - cloud solution) to your Miro boards. They can become essential to your remote retrospectives, story sizing, backlog prioritization, story mapping, and other team activities. You can also use them in Miro Kanban and User story mapping frameworks.

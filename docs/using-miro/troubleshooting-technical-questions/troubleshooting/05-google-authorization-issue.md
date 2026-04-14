@@ -5,8 +5,6 @@ sidebar_position: 6
 created_at: '2019-02-11T10:14:37Z'
 updated_at: '2025-02-26T12:14:00Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Sometimes users who connect Miro with Google (by logging in with their Google account or using Google integrations) receive the following error message:

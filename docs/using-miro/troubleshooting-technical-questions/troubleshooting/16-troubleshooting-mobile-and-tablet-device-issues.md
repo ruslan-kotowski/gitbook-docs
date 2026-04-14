@@ -5,8 +5,6 @@ sidebar_position: 17
 created_at: '2021-04-16T08:25:42Z'
 updated_at: '2025-11-25T16:04:39Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 If you face any issues when working in Miro on mobile or tablet, first of all, try to *reinstall the app, and reload your device*. If that doesn’t help, see the possible reasons below.

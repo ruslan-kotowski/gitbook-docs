@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2024-11-18T15:39:04Z'
 updated_at: '2025-01-06T13:42:39Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: apps-management
 availability:
   plans: Desktop
   roles: Editor, Co-owner, Owner

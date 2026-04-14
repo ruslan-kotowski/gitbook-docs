@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2025-11-10T14:17:30Z'
 updated_at: '2026-03-11T21:34:47Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-granular-admin-settings
 ---
 
 At Canvas 25, we announced the AI Innovation Workspace with visual AI workflows and collaborative AI agents on the canvas. In addition to the end-user features, we are introducing new admin capabilities to give you more visibility, smarter controls, and seamless ways to unlock Miro’s newest AI tools for your teams.

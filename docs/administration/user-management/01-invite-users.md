@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2019-02-11T10:08:23Z'
 updated_at: '2026-01-06T11:44:43Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: invitations
 ---
 
 Easily invite people to your team and boards to start collaborating and creating together. Depending on [Invitation settings](02-invitation-settings.md), the option to invite new users may be available for Admins only or for all members.

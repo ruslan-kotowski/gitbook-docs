@@ -5,11 +5,6 @@ sidebar_position: 104
 created_at: '2024-04-18T11:07:18Z'
 updated_at: '2024-06-19T09:19:46Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: backup-restore-board
 ---
 
 Migrate Mural boards to Miro by either copy + paste content or bulk import Mural boards as PDFs with ease.

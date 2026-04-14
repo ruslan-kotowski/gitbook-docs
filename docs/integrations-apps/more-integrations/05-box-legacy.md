@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-02-11T10:14:07Z'
 updated_at: '2025-05-01T09:32:22Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: box-dropbox
 availability:
   plans: browser version, [Desktop app](../../getting-started/apps-for-devices/05-desktop-app.md)
 ---

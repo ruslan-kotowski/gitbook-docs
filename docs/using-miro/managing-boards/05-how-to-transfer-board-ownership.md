@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2022-09-08T08:56:45Z'
 updated_at: '2026-01-06T19:02:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: move-board-to-space
 availability:
   roles: board_owner, Company Members on Enterprise plan with [Content Admin role
     enabled](../../enterprise-administration/managing-enterprise-teams-and-content/12-content-admin-permissions.md)

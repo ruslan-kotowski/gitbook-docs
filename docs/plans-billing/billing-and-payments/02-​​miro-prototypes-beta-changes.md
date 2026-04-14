@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-07-04T13:58:59Z'
 updated_at: '2026-03-18T17:51:19Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: mockups-wireframes
 availability:
   roles: billing_admin, company_admin
   plans: starter, business, enterprise

@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2024-02-27T21:08:55Z'
 updated_at: '2025-11-25T15:41:36Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Audit logs provides admins with a comprehensive record of all events associated with Enterprise Guard. These logs are a valuable resource for efficient troubleshooting and offer detailed insights into critical events, such as updates to the trash time-to-live policy and trashed board permission policy, the creation, update, or deletion of retention policies for the organization, or the permanent deletion of a board from the trash. Systematically tracking these activities strengthens monitoring, analysis, and maintenance, ensuring a secure and well-managed system.

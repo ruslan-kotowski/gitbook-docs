@@ -5,8 +5,6 @@ sidebar_position: 8
 created_at: '2024-09-13T11:52:11Z'
 updated_at: '2026-03-05T18:22:58Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 [Sensitive Content admins](../../enterprise-subscription-management/enterprise-guard-overview/03-understand-admin-roles-and-their-privileges.md) can leverage custom business-sensitive data discovery to efficiently automate the identification and labeling of Miro boards containing custom business-sensitive information, including intellectual property. With custom business-sensitive data discovery, you can:

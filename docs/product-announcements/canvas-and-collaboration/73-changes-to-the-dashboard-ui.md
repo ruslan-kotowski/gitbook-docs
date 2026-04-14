@@ -5,11 +5,6 @@ sidebar_position: 75
 created_at: '2024-10-28T08:18:24Z'
 updated_at: '2024-11-11T10:29:02Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: template-library
 ---
 
 After gathering initial insights from the rollout of the new Spaces interface, we've made three small updates:

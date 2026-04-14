@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2025-09-25T08:24:51Z'
 updated_at: '2026-03-16T12:37:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: sticky-notes
 availability:
   roles: team_member
   plans: business, enterprise

@@ -5,8 +5,6 @@ sidebar_position: 6
 created_at: '2024-01-24T19:34:48Z'
 updated_at: '2025-08-18T09:36:23Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 id: 06-review-impact
 ---
 

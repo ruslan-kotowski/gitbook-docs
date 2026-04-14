@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2025-10-07T12:55:21Z'
 updated_at: '2026-03-13T12:26:15Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-generate-slides
 availability:
   roles: team_member
   plans: free, starter, business, enterprise

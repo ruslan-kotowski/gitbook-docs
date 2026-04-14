@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2023-10-09T15:53:35Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 In most enterprises, data is growing exponentially in both volume and complexity. Proper management and governance of Miro boards is critical for multiple reasons, including:

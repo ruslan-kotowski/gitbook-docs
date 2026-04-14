@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2026-02-09T13:25:53Z'
 updated_at: '2026-02-17T09:46:42Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-sidekicks
 ---
 
 Miro AI is now available on the mobile app. You can interact with Sidekicks, which enables you to prompt Miro AI to create images and Formats, like Tables and mindmaps, using your text and board objects as context. You can also prompt Sidekicks to analyze board content to provide recommendations and next steps.

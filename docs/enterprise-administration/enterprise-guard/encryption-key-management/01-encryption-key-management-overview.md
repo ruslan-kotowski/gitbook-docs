@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2023-10-24T14:24:53Z'
 updated_at: '2026-02-05T15:17:37Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Enterprise Guard add-on includes an option for Encryption Key Management (EKM). EKM provides centralized control over encryption keys to help safeguard your data. This cloud-based solution enables monitoring of activity logs associated with encryption keys and allows the revocation of key access to your data.

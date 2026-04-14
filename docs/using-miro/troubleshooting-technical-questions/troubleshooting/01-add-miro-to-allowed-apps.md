@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2019-02-11T10:14:41Z'
 updated_at: '2026-04-07T07:50:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   notes: 'Relevant for: all Miro users'
 ---

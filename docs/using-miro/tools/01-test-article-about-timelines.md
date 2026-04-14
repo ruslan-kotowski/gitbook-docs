@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2025-08-05T08:58:50Z'
 updated_at: '2025-08-05T08:59:16Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: amplitude
 availability:
   plans: Desktop, mobile, interactive displays
 ---

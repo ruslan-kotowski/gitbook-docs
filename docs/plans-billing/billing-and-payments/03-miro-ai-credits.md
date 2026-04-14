@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2024-06-25T21:32:21Z'
 updated_at: '2026-03-18T12:38:34Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: all_users, billing_admin, company_admin
   plans: free, starter, business, enterprise

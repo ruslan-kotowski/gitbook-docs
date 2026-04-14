@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2025-10-29T16:01:16Z'
 updated_at: '2026-02-23T11:40:28Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Trello integration for Miro enhances collaboration by enabling seamless two-way synchronization between Miro boards and Trello cards. Easily import, view, and edit cards without switching between tools, ensuring your workflows stay up to date. This integration is designed to improve card management, making it easier for teams to stay aligned and productive.

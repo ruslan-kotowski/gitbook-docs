@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2024-11-12T19:11:35Z'
 updated_at: '2025-01-09T14:20:58Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
 availability:
   plans: '[Enterprise plan](../../../plans-billing/miro-plans/04-enterprise-plan.md)'
   roles: company_admin

@@ -5,11 +5,6 @@ sidebar_position: 13
 created_at: '2024-07-16T13:07:01Z'
 updated_at: '2026-03-13T12:26:15Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: timeline-widget
 availability:
   plans: Desktop, mobile, interactive displays
 ---

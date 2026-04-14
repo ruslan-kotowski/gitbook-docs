@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2021-10-28T10:32:02Z'
 updated_at: '2025-06-23T06:42:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 ---
 
 ## Sales Tax, Value Added Tax and Goods & Services Tax

@@ -5,8 +5,6 @@ sidebar_position: 12
 created_at: '2024-05-28T18:02:52Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Deleting a retention policy releases retained boards associated with the retention policy. These boards can then be permanently deleted without constraints.

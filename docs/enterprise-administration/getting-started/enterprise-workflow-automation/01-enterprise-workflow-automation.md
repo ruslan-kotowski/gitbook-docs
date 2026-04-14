@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2022-10-07T12:57:13Z'
 updated_at: '2025-02-26T11:18:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Easily manage your Miro Enterprise plan at scale. Use integrations with low-code or no-code solutions like ServiceNow Automation Engine, Okta Workflows. More integrations coming soon.

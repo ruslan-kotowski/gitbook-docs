@@ -5,8 +5,6 @@ sidebar_position: 8
 created_at: '2023-04-24T08:12:36Z'
 updated_at: '2025-11-25T16:22:19Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Talktrack allows individual users to record interactive video or audio walkthroughs of their Miro board so they can share their ideas without spending extra time in meetings. Learn how Miro ensures Enterprise-grade security and compliance for Talktrack.

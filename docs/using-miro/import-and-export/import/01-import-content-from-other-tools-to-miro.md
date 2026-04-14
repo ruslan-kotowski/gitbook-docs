@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2024-04-30T14:57:38Z'
 updated_at: '2026-01-19T14:08:30Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: diagramming-import
 availability:
   roles: all_users
   plans: starter, business, enterprise, education

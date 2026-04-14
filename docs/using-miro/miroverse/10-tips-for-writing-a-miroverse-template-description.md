@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2023-11-28T10:45:04Z'
 updated_at: '2026-01-06T19:04:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: template-picker
 ---
 
 When [submitting a template to Miroverse](06-how-to-get-published-on-miroverse.md), you’ll need to add your template’s title, relevant categories, applicable roles, and a template description.

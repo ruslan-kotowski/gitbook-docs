@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2019-02-11T10:12:12Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: widget-transformation
 ---
 
 ## Select several objects

@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2021-08-13T05:51:25Z'
 updated_at: '2025-11-25T16:06:56Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: live-embed
 availability:
   plans: '[Enterprise plan](../../plans-billing/miro-plans/04-enterprise-plan.md)'
 ---

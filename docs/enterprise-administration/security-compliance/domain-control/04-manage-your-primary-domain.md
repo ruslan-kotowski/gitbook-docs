@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2026-03-23T15:02:45Z'
 updated_at: '2026-03-27T15:52:53Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Your corporate domain helps Miro identify who belongs to your organization (internal users) and who does not (external users). Users with email addresses from your coprporate or verified domains are treated as internal, while those from other domains are treated as external, even if they are assigned a paid license.

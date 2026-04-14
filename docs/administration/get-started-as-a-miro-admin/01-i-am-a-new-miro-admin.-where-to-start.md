@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2021-05-21T14:01:14Z'
 updated_at: '2025-05-15T10:19:07Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-permissions
 availability:
   roles: team_admin, company_admin
   plans: starter, business, enterprise

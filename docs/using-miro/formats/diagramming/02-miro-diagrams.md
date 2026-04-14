@@ -5,15 +5,10 @@ sidebar_position: 2
 created_at: '2025-03-12T14:15:07Z'
 updated_at: '2026-04-09T15:56:15Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education
   platforms: browser, desktop
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-generate-diagram
 ---
 
 Miro Diagrams helps you visualize complex ideas, brainstorm effectively, and collaborate with your team in a structured way. With easy access to essential tools like **layers**, **Miro AI**, and **diagramming shapes**, this new format is your complete **workspace for diagramming**.

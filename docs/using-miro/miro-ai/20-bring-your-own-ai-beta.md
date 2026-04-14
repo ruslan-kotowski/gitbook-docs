@@ -5,11 +5,6 @@ sidebar_position: 20
 created_at: '2024-10-09T18:45:40Z'
 updated_at: '2026-03-16T12:37:03Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-generate-image
 availability:
   plans: Desktop
 ---

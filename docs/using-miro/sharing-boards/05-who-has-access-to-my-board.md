@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2021-10-29T09:08:21Z'
 updated_at: '2026-01-06T19:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: comments
 ---
 
 Miro users can share their boards with collaborators and restrict access at any moment.

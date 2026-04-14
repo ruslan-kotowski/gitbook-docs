@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2025-11-25T13:35:45Z'
 updated_at: '2025-12-29T15:25:31Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: bring-your-own-ai
 availability:
   roles: board_owner, Board co-owners, board_editor, team_member, team_admin, User
     admins, Content admins, (Setup) Company admins; Amazon Q admin

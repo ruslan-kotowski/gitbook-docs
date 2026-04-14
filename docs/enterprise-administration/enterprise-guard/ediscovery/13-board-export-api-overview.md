@@ -5,8 +5,6 @@ sidebar_position: 13
 created_at: '2024-03-19T12:52:09Z'
 updated_at: '2025-07-09T17:32:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 [eDiscovery APIs](https://developers.miro.com/reference/enterprise-create-board-export) allow customers on the Enterprise Plan to export board data from Miro to be reviewed manually or ingested into purpose-built tools for legal, compliance, and security purposes.

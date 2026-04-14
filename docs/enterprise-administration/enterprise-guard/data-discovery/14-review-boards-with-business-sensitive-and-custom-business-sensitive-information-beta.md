@@ -6,8 +6,6 @@ sidebar_position: 14
 created_at: '2025-01-21T15:10:56Z'
 updated_at: '2025-11-25T16:22:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Content Explorer allows [Sensitive Content Admins](../../enterprise-subscription-management/enterprise-guard-overview/03-understand-admin-roles-and-their-privileges.md) to review occurrences of business-sensitive or custom business-sensitive data matches.

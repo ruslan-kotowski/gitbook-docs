@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2026-03-17T10:23:03Z'
 updated_at: '2026-03-19T13:49:06Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Admin announcements can be shown to everyone in the organization or to members of a specific team. Selecting the right audience ensures that announcements are shown only to the users they are intended for.

@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2022-07-12T12:53:45Z'
 updated_at: '2026-02-19T10:50:00Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: billing-groups
 availability:
   plans: enterprise
   roles: company_admin

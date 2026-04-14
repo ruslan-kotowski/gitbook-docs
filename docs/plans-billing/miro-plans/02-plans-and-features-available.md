@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2019-02-11T10:09:37Z'
 updated_at: '2026-04-10T07:50:53Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The following table compares key features per Miro plan.

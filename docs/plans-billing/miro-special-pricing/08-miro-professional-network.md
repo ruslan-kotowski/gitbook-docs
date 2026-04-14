@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2021-07-07T03:07:59Z'
 updated_at: '2025-12-22T13:59:14Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 ---
 
 [Miro Professional Network](https://miro.com/professional-network/) is a free program for consultants, agencies and freelancers who use Miro in their client-facing work. By joining this program, you’ll gain access to exclusive resources and events, a community of like-minded professionals, and much more.

@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-12-23T12:09:46Z'
 updated_at: '2025-06-23T06:42:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: subscriptions-prorations-refunds-coupons-invoicing
 availability:
   notes: 'Relevant for: Starter Plan, Business Plan'
 ---

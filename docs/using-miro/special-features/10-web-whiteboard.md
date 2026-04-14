@@ -5,8 +5,6 @@ sidebar_position: 10
 created_at: '2020-11-17T03:36:54Z'
 updated_at: '2025-04-22T02:40:23Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Web whiteboard is a free simple online whiteboard you can use without signing up or signing in. Run your next online brainstorming or tutoring session in Web whiteboard. Simply go to [webwhiteboard.com](https://webwhiteboard.com/), create a board, and share the link with your team.

@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2025-11-07T18:04:17Z'
 updated_at: '2025-11-25T15:56:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-intelligent-guardrails-bam
 ---
 
 Use Intelligent Guardrails to block all AI-powered interactions in Miro when you need to protect sensitive or classified data. This setting disables AI across the workspace while allowing teams to continue working without AI assistance.

@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-02-11T10:11:37Z'
 updated_at: '2026-01-06T19:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-roles-and-permissions
 ---
 
 In Miro, you can share your boards with collaborators anywhere. There are several ways to invite users to your boards. Let's take a closer look at each of them.

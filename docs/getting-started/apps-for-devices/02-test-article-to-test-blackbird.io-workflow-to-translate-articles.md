@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-03-27T10:43:32Z'
 updated_at: '2026-03-08T14:41:31Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
 ---
 
 Miro is a natural fit for workshops and meetings and you can definitely use our product for such needs.

@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2019-08-12T14:09:04Z'
 updated_at: '2026-01-06T19:02:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: feed-dashboard
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education

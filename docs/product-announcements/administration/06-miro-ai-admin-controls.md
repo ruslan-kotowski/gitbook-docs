@@ -5,8 +5,6 @@ sidebar_position: 10
 created_at: '2025-10-03T16:23:28Z'
 updated_at: '2026-01-12T16:12:37Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
 ---
 
 A new Miro AI Capabilities page lets you control which AI features your users can access, without turning everything on at once. Grant access to your entire organization or tailor permissions for specific teams.

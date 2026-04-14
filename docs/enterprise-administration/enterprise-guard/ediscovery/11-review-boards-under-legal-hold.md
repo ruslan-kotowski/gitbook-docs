@@ -5,8 +5,6 @@ sidebar_position: 11
 created_at: '2024-10-21T23:52:35Z'
 updated_at: '2025-11-25T16:22:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Once a legal hold is in place, [eDiscovery Admins](../../enterprise-subscription-management/enterprise-guard-overview/03-understand-admin-roles-and-their-privileges.md) can review or explore the preserved Miro boards to ensure that all relevant data is intact and ready for legal proceedings or investigations. Reviewing Miro boards under legal hold allows admins to assess the content and identify critical information that may be used as evidence, while ensuring the integrity of the preserved data. By regularly reviewing boards under legal hold, eDiscovery Admins can maintain compliance and ensure that their organization is fully prepared for the legal requirements ahead.

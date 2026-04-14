@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2024-05-15T12:52:10Z'
 updated_at: '2024-11-07T13:30:25Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: powerbi
 availability:
   plans: Browser, Desktop App
 ---

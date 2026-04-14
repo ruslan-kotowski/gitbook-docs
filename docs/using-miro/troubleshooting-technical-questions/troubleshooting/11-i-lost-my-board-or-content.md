@@ -5,8 +5,6 @@ sidebar_position: 12
 created_at: '2022-04-22T10:56:05Z'
 updated_at: '2025-05-20T20:09:39Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Here’s what to do if you have trouble finding a Miro board or if some content on a board has gone missing.

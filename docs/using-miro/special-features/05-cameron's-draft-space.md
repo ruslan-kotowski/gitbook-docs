@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2024-11-13T16:57:08Z'
 updated_at: '2024-11-19T15:11:43Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: move-board-to-space
 availability:
   plans: All platforms
   roles: board_owner

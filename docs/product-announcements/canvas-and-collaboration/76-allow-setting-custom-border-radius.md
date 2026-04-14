@@ -5,8 +5,6 @@ sidebar_position: 78
 created_at: '2024-09-13T07:52:51Z'
 updated_at: '2025-02-25T15:14:49Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
 ---
 
 Users can adjust the border radius of any rectangle or square with rounded edges, allowing for a more visually appealing design at any scale and greater flexibility in shaping the board’s elements.

@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2021-03-18T12:15:46Z'
 updated_at: '2025-11-05T13:45:32Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 You can [export your Miro board](../../import-and-export/export/03-how-to-export-your-board.md) as an image, PDF, or CSV file. If you face any issues exporting your Miro board, explore the possible solutions below.

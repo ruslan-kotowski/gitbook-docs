@@ -5,11 +5,6 @@ sidebar_position: 11
 created_at: '2019-02-11T10:11:11Z'
 updated_at: '2025-11-25T16:02:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: diagramming
 ---
 
 The shape tool allows you to create various shapes that can be used in flowcharting, diagramming, and for many other purposes.

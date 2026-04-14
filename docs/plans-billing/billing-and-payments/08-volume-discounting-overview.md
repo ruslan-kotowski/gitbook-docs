@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2025-05-20T08:12:28Z'
 updated_at: '2025-09-15T11:25:00Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 availability:
   roles: billing_admin, company_admin
   plans: free, business

@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2023-12-08T10:07:27Z'
 updated_at: '2025-12-23T12:06:46Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   plans: enterprise
   roles: company_admin

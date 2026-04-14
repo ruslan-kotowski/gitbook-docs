@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2025-04-03T13:43:45Z'
 updated_at: '2026-02-20T08:58:28Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Asana integration for Miro enhances collaboration by enabling seamless two-way synchronization between Miro boards and Asana tasks. Easily import, view, and edit tasks without switching between tools, ensuring your workflows stay up to date. This integration is designed to improve task management, making it easier for teams to stay aligned and productive.

@@ -5,11 +5,6 @@ sidebar_position: 11
 created_at: '2025-11-17T14:23:40Z'
 updated_at: '2026-01-20T17:28:31Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: presentation-activities
 availability:
   roles: board_editor
   plans: free, starter, business, enterprise, education

@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2025-03-24T15:16:39Z'
 updated_at: '2025-11-25T15:50:32Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Miro Insights is a centralized, **AI-enhanced platform** designed to help teams turn customer input into clear, actionable priorities. It aggregates product feedback, usage data, and even revenue insights from across your tech stack — including CRM platforms, support tools, and internal conversation channels – all into one intelligent hub. By doing so, Miro Insights makes it easier to answer critical product questions, such as “*What do our customers really want?*” and “*Which features will drive the most value?*”

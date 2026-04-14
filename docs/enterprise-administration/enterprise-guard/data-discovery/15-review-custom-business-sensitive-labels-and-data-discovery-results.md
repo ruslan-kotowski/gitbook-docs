@@ -5,8 +5,6 @@ sidebar_position: 15
 created_at: '2024-09-30T11:53:21Z'
 updated_at: '2025-11-25T15:46:40Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The **Data Discovery Overview** page displays a list of all configured custom business-sensitive labels, label status, type of label, the admin who created the label, the board classification associated with each label, the number of boards that are tagged with each label and the link to explore the boards. Additionally, Sensitive Content Admins can edit custom business-sensitive labels, and copy label display IDs from the **Data Discovery Overview** page.

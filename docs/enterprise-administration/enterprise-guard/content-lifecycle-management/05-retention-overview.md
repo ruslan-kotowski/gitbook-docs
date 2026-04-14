@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2024-05-28T17:53:34Z'
 updated_at: '2026-01-05T11:47:05Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Retention ensures data protection and compliance by allowing administrators to define, edit, and delete policies tailored to their organization's needs. Retention policies play a crucial role in safeguarding Miro boards within the organization, allowing you to retain certain boards for a specified period of time. Retention ensures Miro boards do not get deleted accidentally or intentionally until the board is out of the retention period. By leveraging retention policies, organizations can ensure data protection, compliance, and the preservation of business-critical information automatically, at-scale.

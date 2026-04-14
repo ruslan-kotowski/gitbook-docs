@@ -5,8 +5,6 @@ sidebar_position: 9
 created_at: '2026-03-09T09:34:10Z'
 updated_at: '2026-03-13T12:36:19Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: team_member
   plans: free, starter, business, enterprise, education

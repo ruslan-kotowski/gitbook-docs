@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-02-11T10:12:37Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: lasso
 ---
 
 You can work in Miro with a **mouse**, **trackpad**, or **touchscreen**.

@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2024-05-28T18:12:39Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: Content admins, company_admin, Data governance admin
   plans: enterprise

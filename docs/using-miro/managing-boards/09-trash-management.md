@@ -5,11 +5,6 @@ sidebar_position: 9
 created_at: '2023-08-29T08:11:06Z'
 updated_at: '2026-01-06T19:02:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: delete-board
 availability:
   roles: '[Board Owners](../../getting-started/start-here/05-roles-in-miro.md#roles-on-boards-and-spaces),
     [Company Admins](../../administration/get-started-as-a-miro-admin/01-i-am-a-new-miro-admin.-where-to-start.md#team-admin-company-admin)'

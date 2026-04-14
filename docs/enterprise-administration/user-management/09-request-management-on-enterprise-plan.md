@@ -5,11 +5,6 @@ sidebar_position: 9
 created_at: '2020-10-27T12:09:40Z'
 updated_at: '2026-02-19T11:00:31Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: access-request-management
 availability:
   roles: company_admin
   notes: 'Relevant for: Enterprise Plan'

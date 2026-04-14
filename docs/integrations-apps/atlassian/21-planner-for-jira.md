@@ -5,13 +5,8 @@ sidebar_position: 21
 created_at: '2023-03-22T10:19:27Z'
 updated_at: '2026-04-07T13:34:46Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   plans: business, enterprise
-backstage_link:
-  entity_kind: capability
-  entity_id: jira-cards
 ---
 
 With planner for Jira, facilitators and teams can run and participate in planning events on a Miro board, while also syncing updates to their Jira board in real-time — saving hours of manual work.

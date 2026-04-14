@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2024-11-12T19:12:47Z'
 updated_at: '2025-01-09T14:21:45Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
 availability:
   plans: enterprise
   roles: company_admin

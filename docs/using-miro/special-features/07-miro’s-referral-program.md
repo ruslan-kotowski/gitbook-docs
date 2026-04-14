@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2024-10-16T19:41:41Z'
 updated_at: '2025-05-20T20:02:01Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: amplitude
 availability:
   roles: all_users
   plans: free, starter, business

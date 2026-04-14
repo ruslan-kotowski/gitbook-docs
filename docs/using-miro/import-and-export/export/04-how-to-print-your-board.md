@@ -5,15 +5,10 @@ sidebar_position: 4
 created_at: '2021-10-29T07:50:35Z'
 updated_at: '2025-06-27T15:36:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education
   platforms: browser, desktop
-backstage_link:
-  entity_kind: capability
-  entity_id: export-pdf-canvas
 ---
 
 To print your Miro board:

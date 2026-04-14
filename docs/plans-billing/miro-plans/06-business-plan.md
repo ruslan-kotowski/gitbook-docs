@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2019-03-31T12:09:55Z'
 updated_at: '2026-04-10T07:50:47Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-sidekicks
 ---
 
 Miro's Business plan is the best choice for teams that need extra security and flexibility on the user management side of their organization.

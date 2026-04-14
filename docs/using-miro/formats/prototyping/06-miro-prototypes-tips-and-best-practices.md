@@ -5,8 +5,6 @@ sidebar_position: 6
 created_at: '2025-10-15T16:12:23Z'
 updated_at: '2025-12-12T18:15:01Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
 id: 06-miro-prototypes-tips-and-best-practices
 availability:
   roles: team_member

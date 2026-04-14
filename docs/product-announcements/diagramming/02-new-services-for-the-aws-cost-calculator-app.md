@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2024-10-23T08:48:30Z'
 updated_at: '2025-01-03T10:05:30Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: diagramming
 ---
 
 Miro’s AWS Cost Calculator will now support more than 40 services to enable users to generate more meaningful cost estimations and plan cloud spend.

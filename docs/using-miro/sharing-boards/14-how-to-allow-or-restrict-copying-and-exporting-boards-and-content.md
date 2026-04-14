@@ -5,11 +5,6 @@ sidebar_position: 14
 created_at: '2020-12-14T06:10:03Z'
 updated_at: '2026-01-22T14:23:08Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: export-pdf-canvas
 availability:
   roles: team_member, (Setup) Team admins, (Setup) Company admins
   plans: starter, business, enterprise, education

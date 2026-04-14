@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2024-11-25T10:38:32Z'
 updated_at: '2025-12-10T12:23:09Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-permissions
 availability:
   plans: Enterprise in phased rollout
   roles: All users and admins

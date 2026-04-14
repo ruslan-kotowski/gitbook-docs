@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2025-06-22T22:39:21Z'
 updated_at: '2025-11-25T15:52:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Sensitive Content Admins can now easily enable or disable specific labels when configuring Data Discovery scans, helping tailor results to your organization’s needs. For example, you can choose to focus only on GDPR labels. Once you save your scanning preferences, scans are automatically updated to reflect the data type you've enabled or disabled. This gives Admins greater control over scan outputs and helps reduce noise from irrelevant findings. By default, all data types/sensitivity labels are enabled.

@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2023-09-21T14:45:02Z'
 updated_at: '2025-11-25T15:38:11Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: desktop-mobile-tablet-app
 availability:
   notes: 'general: steps on how to configure your company''s EMM/MDM solution using
     three examples from specific software: VMWare (Workspace ONE), Ivanti Neurons

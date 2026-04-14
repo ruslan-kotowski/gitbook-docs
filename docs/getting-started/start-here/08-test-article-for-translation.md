@@ -5,8 +5,6 @@ sidebar_position: 8
 created_at: '2024-03-11T12:43:29Z'
 updated_at: '2025-02-26T12:09:06Z'
 draft: false
-user_segment_id: 4408401633042
-user_segment: Test user segment
 ---
 
 Learn how to create a Miro board. A Miro board is an online whiteboard that you can use to visualize your ideas and work on projects either individually or with a team.

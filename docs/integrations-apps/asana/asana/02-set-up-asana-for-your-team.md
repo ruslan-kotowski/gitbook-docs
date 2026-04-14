@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-07-22T13:30:20Z'
 updated_at: '2026-02-20T09:00:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 This section provides comprehensive technical and administrative details, essential for IT and security professionals responsible for the deployment, security, and ongoing management of the Asana integration within their organization.

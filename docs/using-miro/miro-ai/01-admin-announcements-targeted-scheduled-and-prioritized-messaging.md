@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2026-03-18T15:49:55Z'
 updated_at: '2026-03-18T15:50:51Z'
 draft: true
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
 ---
 
 Admin announcements are now generally available, giving admins a centralized way to communicate targeted, time-bound messages across their organization. With admin announcements, admins can share important updates, promote training, support feature rollouts, and drive adoption by displaying banners on boards and the dashboard. Announcements can be targeted to the entire organization or specific teams and scheduled to appear at the right time.

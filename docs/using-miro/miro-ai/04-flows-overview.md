@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2025-09-23T09:06:23Z'
 updated_at: '2026-03-16T12:37:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: diagramming
 availability:
   roles: team_member
   plans: free, starter, education, business, enterprise

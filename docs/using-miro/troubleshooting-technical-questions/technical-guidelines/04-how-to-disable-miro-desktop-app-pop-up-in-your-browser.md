@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2021-01-29T12:48:31Z'
 updated_at: '2026-03-06T13:37:49Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 If you have [Miro Desktop App](../../../getting-started/apps-for-devices/05-desktop-app.md) installed on your device, when opening a Miro board in a browser, you can see the pop-up that suggests you open the board in the app.

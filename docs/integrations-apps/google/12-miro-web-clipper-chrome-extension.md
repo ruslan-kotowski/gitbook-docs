@@ -5,11 +5,6 @@ sidebar_position: 12
 created_at: '2019-02-11T10:14:16Z'
 updated_at: '2026-02-06T19:51:58Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: web-clipper
 ---
 
 :::note

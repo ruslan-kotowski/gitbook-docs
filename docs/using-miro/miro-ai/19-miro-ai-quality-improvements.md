@@ -5,11 +5,6 @@ sidebar_position: 18
 created_at: '2024-11-26T10:04:13Z'
 updated_at: '2026-03-16T12:37:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: diagramming
 ---
 
 Starting February 3, 2025, we will collect AI interaction data from Free Plan users to improve Miro AI features like AI summaries, diagrams and sidekicks.

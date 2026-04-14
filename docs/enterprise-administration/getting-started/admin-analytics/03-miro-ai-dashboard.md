@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2025-10-19T21:46:46Z'
 updated_at: '2026-03-12T10:05:40Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Gain detailed insights into how Miro AI is used across your company. The Miro AI dashboard shows the number of teams and users that are adopting AI features, and provides a historical view of AI usage by category. The AI dashboard also shows what your organization creates with AI and which AI-powered actions are used most. This helps you understand usage patterns, support champions, and guide responsible rollout of AI.

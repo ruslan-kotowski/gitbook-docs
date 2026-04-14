@@ -5,11 +5,6 @@ sidebar_position: 17
 created_at: '2021-10-29T07:59:49Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: delete-board
 availability:
   roles: All logged in users
   plans: free, starter, business, enterprise, education

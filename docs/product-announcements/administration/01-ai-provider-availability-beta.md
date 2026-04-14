@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2026-03-24T08:18:13Z'
 updated_at: '2026-03-27T16:04:16Z'
 draft: false
-user_segment_id: 20452630573202
-user_segment: Team Admins (Premium)
 ---
 
 Company Admins on the Enterprise plan with the AI Workflows add-on can now control which AI providers are available across Miro AI features.

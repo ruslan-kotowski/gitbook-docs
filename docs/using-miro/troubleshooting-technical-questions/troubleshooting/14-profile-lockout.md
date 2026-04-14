@@ -5,8 +5,6 @@ sidebar_position: 15
 created_at: '2019-02-11T10:08:55Z'
 updated_at: '2026-02-24T12:02:59Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The profile lockout is standard forall Miro users and plans, customization is unavailable. Users trying to [authenticate through external identity providers](../../../enterprise-administration/security-integrations/single-sign-on-sso/09-single-sign-on-(sso).md), will not be affected by this feature.

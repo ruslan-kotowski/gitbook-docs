@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2021-04-13T06:37:58Z'
 updated_at: '2025-10-10T07:52:21Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 availability:
   plans: starter, business
   notes: 'Relevant for: Admins, Billing Admins'

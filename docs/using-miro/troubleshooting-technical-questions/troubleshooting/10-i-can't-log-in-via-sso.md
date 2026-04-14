@@ -5,8 +5,6 @@ sidebar_position: 11
 created_at: '2019-03-07T15:50:03Z'
 updated_at: '2025-11-25T16:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Get troubleshooting advice for you and your IT administrators around issues related to single sign-on (SSO).

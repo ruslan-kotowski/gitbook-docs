@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2022-07-28T15:12:36Z'
 updated_at: '2026-01-06T19:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-roles-and-permissions
 ---
 
 In some cases you may want to invite external users to your board without making them full members of your team - like if you’re working on a project with a consultant, client or colleague.

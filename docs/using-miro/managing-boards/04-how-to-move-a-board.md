@@ -5,14 +5,9 @@ sidebar_position: 4
 created_at: '2019-02-11T10:08:44Z'
 updated_at: '2026-03-27T16:09:59Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: board_owner
   notes: 'Relevant for: All plans'
-backstage_link:
-  entity_kind: capability
-  entity_id: move-board-to-space
 ---
 
 Every Miro user can be a member of multiple teams. Your Miro profile is your email address. You can move a Miro board from one team to another, or transfer your Miro board to another profile.

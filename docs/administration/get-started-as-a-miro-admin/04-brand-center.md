@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2023-08-14T09:13:52Z'
 updated_at: '2025-11-25T15:37:50Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: brand-color
 availability:
   plans: Desktop browser, Desktop app
   roles: company_admin, team_admin, team_member

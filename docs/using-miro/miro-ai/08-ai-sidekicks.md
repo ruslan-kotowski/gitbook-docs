@@ -5,11 +5,6 @@ sidebar_position: 19
 created_at: '2024-08-07T13:31:24Z'
 updated_at: '2026-03-16T12:37:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: feed-dashboard
 availability:
   notes: This article describes a deprecated version of Sidekicks. For current Sidekicks
     documentation, see [Sidekicks overview](06-sidekicks-overview.md), and [Sidekicks

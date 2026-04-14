@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2019-02-11T10:14:05Z'
 updated_at: '2025-02-26T12:12:53Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: box-dropbox
 availability:
   roles: All users with Dropbox Basic and Pro accounts
   platforms: browser, desktop

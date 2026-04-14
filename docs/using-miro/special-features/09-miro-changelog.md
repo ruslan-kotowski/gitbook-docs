@@ -5,11 +5,6 @@ sidebar_position: 9
 created_at: '2022-10-13T08:45:50Z'
 updated_at: '2024-08-23T09:44:46Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: template-picker
 availability:
   notes: Find out about our latest product changes as we continue improving Miro to
     enable your team to collaborate better. Updates are provided on a weekly basis.

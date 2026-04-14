@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2023-03-22T10:22:08Z'
 updated_at: '2025-11-25T16:22:15Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: dependencies
 availability:
   plans: Desktop browser, Desktop app
   notes: '💡: ** This feature is now available for [Azure DevOps](08-dependencies-for-azure-devops.md).'

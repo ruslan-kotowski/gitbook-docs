@@ -5,8 +5,6 @@ sidebar_position: 14
 created_at: '2024-09-02T16:35:06Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 There may be times when the Content Explorer displays a long list of boards that are in Trash, and you want to customize the result list based on specific requirements. [Data Governance Admins](../../enterprise-subscription-management/enterprise-guard-overview/03-understand-admin-roles-and-their-privileges.md) now have the capability to search, filter, or sort the board list according to a variety of criteria, enhancing their ability to focus on key aspects of their content lifecycle management tasks.

@@ -5,11 +5,6 @@ sidebar_position: 14
 created_at: '2019-02-11T10:12:31Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: brand-color
 availability:
   notes: Miro is introducing an updated design language for Canvas. The new design
     language includes updates to color pickers, Sticky notes, fonts, Interactive stickers,

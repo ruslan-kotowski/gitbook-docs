@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-04-10T14:24:42Z'
 updated_at: '2025-04-10T14:29:57Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: sticky-notes
 availability:
   plans: browser version, [Desktop app](../../getting-started/apps-for-devices/05-desktop-app.md),
     [Tablet app](../../getting-started/apps-for-devices/11-tablet-app.md), [Mobile

@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2021-02-26T09:45:56Z'
 updated_at: '2026-01-06T19:04:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: template-picker
 ---
 
 Showcase your expertise and take credit for your work. Profile pages ensure that anyone can learn about you and see every board you’ve published. From here you can also find all your submitted templates, including saved drafts and submission status updates.

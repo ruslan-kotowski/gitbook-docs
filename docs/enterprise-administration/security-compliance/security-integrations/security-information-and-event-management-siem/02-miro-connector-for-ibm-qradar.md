@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2022-08-03T11:29:28Z'
 updated_at: '2025-02-26T11:34:22Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Get actionable insights from the Audit Logs of your Miro Enterprise plan with The Miro Connector for IBM QRadar. Detect, prioritize and respond to security threats faster and use this integration to effortlessly ingest Miro Audit Log data directly into your IBM QRadar SIEM system.

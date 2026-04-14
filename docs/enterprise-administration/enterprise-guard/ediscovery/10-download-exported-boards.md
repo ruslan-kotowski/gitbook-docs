@@ -5,8 +5,6 @@ sidebar_position: 10
 created_at: '2025-05-21T19:01:04Z'
 updated_at: '2025-08-21T10:16:31Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 You can download exported boards individually or use bulk download to save time. With bulk download, the system packages all boards from an export job into a single archive, so you don’t need to download each board one by one. This option helps admins manage large exports more efficiently by keeping all boards together in one place, making them easier to store, share, and access.

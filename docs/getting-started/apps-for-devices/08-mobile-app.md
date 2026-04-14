@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2019-02-11T10:15:00Z'
 updated_at: '2026-02-09T13:54:58Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: desktop-mobile-tablet-app
 ---
 
 Enhance team collaboration anytime, anywhere with the Miro mobile app. Stay connected and in sync with your team's progress, engage in dynamic brainstorming with ideas and sticky notes, and offer continuous input through seamless commenting.

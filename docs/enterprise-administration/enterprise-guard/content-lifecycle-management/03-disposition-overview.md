@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2024-06-13T05:32:48Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 In the dynamic world of collaborative workspaces, effectively managing and organizing data is crucial. One essential aspect of board and data management is the automatic disposition of Miro boards. Disposition refers to the systematic process of managing the automatic archival and destruction of boards. Automatic board disposition is vital for ensuring compliance with regulatory requirements, enhancing operational efficiency, and minimizing risks associated with data breaches and unauthorized access.

@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2024-09-04T08:50:55Z'
 updated_at: '2025-11-25T15:45:37Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The *Enterprise* *admin deployment guide* provides the basic knowledge and steps to configure Miro Enterprise for your organization.

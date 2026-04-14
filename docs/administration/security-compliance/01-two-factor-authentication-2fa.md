@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2025-06-12T12:01:03Z'
 updated_at: '2025-06-24T08:19:34Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: 2fa
 availability:
   roles: team_admin, company_admin
   plans: starter, business, education, enterprise

@@ -5,11 +5,6 @@ sidebar_position: 18
 created_at: '2021-02-24T08:56:24Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: delete-board
 availability:
   roles: editors who were explicitly invited to boards [via email](../sharing-boards/03-sharing-boards-and-inviting-collaborators.md#inviting-via-email) or
     have access to the board because they are part of a [project](../sharing-boards/16-projects.md) or [team](../sharing-boards/03-sharing-boards-and-inviting-collaborators.md) in

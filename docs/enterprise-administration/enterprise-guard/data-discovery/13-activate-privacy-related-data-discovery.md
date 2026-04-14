@@ -5,8 +5,6 @@ sidebar_position: 13
 created_at: '2023-11-30T17:17:39Z'
 updated_at: '2025-11-25T15:39:47Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Activating privacy-related data discovery allows you to automatically discover, classify, and protect highly-sensitive data, such as credit card numbers, social security numbers, passport numbers, or authentication tokens, on your Miro boards. This helps avoid non-compliance issues and reduce risks associated with data sprawl and data leakage across your enterprise, without slowing down your business.

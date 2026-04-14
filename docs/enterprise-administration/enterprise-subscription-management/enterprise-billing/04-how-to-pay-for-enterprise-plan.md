@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2022-11-28T11:30:14Z'
 updated_at: '2025-07-29T08:56:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: subscriptions-prorations-refunds-coupons-invoicing
 ---
 
 Miro accepts most major payment methods, including bank transfers, ACH, paper checks, and credit cards when applicable. Certain payment methods may only be accepted for specific plans or geographic regions.

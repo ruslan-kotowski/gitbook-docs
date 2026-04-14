@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2026-03-04T16:39:01Z'
 updated_at: '2026-03-04T16:44:59Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
 ---
 
 We’ve introduced new widgets and filtering options in the **AI Analytics dashboard**, giving admins more visibility into how AI features are used across their organization. Two new widgets, **AI actions by feature** and **AI actions over time**, help admins better understand how teams interact with AI in Miro and track usage trends over time.

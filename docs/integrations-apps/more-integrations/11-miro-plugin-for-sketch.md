@@ -5,8 +5,6 @@ sidebar_position: 13
 created_at: '2019-02-11T10:13:46Z'
 updated_at: '2025-02-26T12:15:38Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Miro plugin for Sketch enables an easy and quick way to get images from Sketch right to the board. Send your artboards to Miro and easily update them in one click. Sync all your images whenever you make a change without uploading them again.

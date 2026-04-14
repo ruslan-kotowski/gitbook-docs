@@ -5,8 +5,6 @@ sidebar_position: 23
 created_at: '2019-02-11T10:13:40Z'
 updated_at: '2026-03-20T14:10:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 With the Miro Power-Up, you can easily attach Miro boards to Trello cards, view/comment/edit the boards and create new ones right from within Trello. No need to switch between the tools!

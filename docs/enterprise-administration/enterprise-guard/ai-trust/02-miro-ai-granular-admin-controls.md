@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-05-28T12:30:26Z'
 updated_at: '2026-03-10T15:25:49Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-granular-admin-settings
 availability:
   roles: company_admin
   plans: Enterprise with Miro AI Workflows Add-on or Enterprise Guard Add-on

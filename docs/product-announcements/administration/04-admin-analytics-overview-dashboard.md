@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2025-10-30T21:12:22Z'
 updated_at: '2026-01-12T16:16:28Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: admin-analytics
 ---
 
 The Overview dashboard provides insights that enable you to track adoption and understand your organization's activity through the following metrics:

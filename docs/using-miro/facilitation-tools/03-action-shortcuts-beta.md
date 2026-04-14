@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-03-25T21:09:48Z'
 updated_at: '2025-04-24T16:53:26Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: action-button
 availability:
   plans: free, starter, business, enterprise, education
   roles: '* Board owners and editors can set up Action shortcuts; all users can use

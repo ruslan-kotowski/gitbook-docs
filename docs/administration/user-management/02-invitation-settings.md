@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2021-06-03T10:01:33Z'
 updated_at: '2025-06-02T11:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: invitations
 availability:
   roles: (Free, Starter, Education) Team Admins, (Business, Enterprise) Company Admins,
     team_admin

@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2021-04-29T06:57:16Z'
 updated_at: '2026-02-19T10:58:01Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: guests
 availability:
   plans: Business and Enterprise plans
   notes: 'Limited availability for: Starter and Education plans edit: access to your

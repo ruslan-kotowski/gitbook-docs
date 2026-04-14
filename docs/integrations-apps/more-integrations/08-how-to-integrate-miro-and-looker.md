@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2022-11-24T18:03:03Z'
 updated_at: '2024-08-23T12:34:00Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: looker
 availability:
   roles: Looker admin
   plans: free, starter, business, enterprise

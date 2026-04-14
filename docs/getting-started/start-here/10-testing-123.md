@@ -5,8 +5,6 @@ sidebar_position: 10
 created_at: '2024-02-22T16:27:11Z'
 updated_at: '2025-02-26T11:26:39Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
 ---
 
 Testing 123

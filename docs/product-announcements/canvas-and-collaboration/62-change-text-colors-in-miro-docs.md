@@ -5,8 +5,6 @@ sidebar_position: 64
 created_at: '2024-12-02T11:44:09Z'
 updated_at: '2024-12-09T09:07:58Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
 ---
 
 Call out and emphasize important ideas by changing text colors in Miro Docs.

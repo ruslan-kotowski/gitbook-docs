@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2024-10-24T13:17:04Z'
 updated_at: '2025-04-25T13:57:02Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-permissions
 ---
 
 Company admins and admins with the necessary privileges can now create and manage custom roles tailored to specific organizational needs. This functionality enhances control over user management, security, and content lifecycle by offering customizable privileges. Admins can efficiently assign, update, or remove custom admin roles as required, ensuring alignment with organizational workflows. Key benefits of custom admin roles include:

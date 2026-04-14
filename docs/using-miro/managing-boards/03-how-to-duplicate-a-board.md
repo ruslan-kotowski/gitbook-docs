@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-02-11T10:08:47Z'
 updated_at: '2026-01-06T19:02:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-details-dialog
 availability:
   platforms: browser, desktop, tablet
   roles: For boards on Free plan - team members; for boards on Starter, Business,

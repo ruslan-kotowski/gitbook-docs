@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2022-04-06T07:50:15Z'
 updated_at: '2025-11-25T16:08:34Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: marketplace
 ---
 
 :::tip

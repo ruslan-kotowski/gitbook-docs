@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2019-02-11T10:10:03Z'
 updated_at: '2026-02-16T13:10:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 ---
 
 The Miro [Enterprise plan](https://miro.com/enterprise/) is the best choice for one or more teams that will scale with Miro over time. This plan offers the most robust features that support security, scalability and success.

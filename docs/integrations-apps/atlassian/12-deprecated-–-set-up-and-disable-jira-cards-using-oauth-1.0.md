@@ -5,11 +5,6 @@ sidebar_position: 14
 created_at: '2019-03-12T12:35:09Z'
 updated_at: '2026-03-20T14:10:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: jira-cards
 availability:
   plans: Jira Cloud, Jira Server (On-Premise) and Datacenter (LDAP-protected too)
   roles: Miro Team Admin & Jira System Admin with Project administrative permissions

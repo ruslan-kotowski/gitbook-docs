@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2023-03-01T11:19:29Z'
 updated_at: '2026-02-19T10:38:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 ---
 
 Enterprise Plan customers can choose between our non-flexible or flexible licensing. Learn about our licensing options and what they mean for your subscription management.

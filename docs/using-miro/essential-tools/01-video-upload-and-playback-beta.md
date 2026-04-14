@@ -5,11 +5,6 @@ sidebar_position: 17
 created_at: '2025-10-17T17:23:17Z'
 updated_at: '2025-10-22T10:48:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: iframe-embed-widget
 availability:
   roles: All users can playback, board_owner, Board co-owners, and Board editors can
     upload

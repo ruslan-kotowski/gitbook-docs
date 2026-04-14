@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2025-01-10T13:26:40Z'
 updated_at: '2025-11-25T16:22:25Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 ## Privacy-related data discovery

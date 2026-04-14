@@ -5,8 +5,6 @@ sidebar_position: 10
 created_at: '2025-01-07T07:56:22Z'
 updated_at: '2025-11-25T16:22:18Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Activating business-sensitive data discovery enables Sensitive Content admins to seamlessly identify, classify, and secure critical business data—without needing to know exactly what to search for. With  a single toggle click, Sensitive Content admins can leverage Miro's built-in machine learning labels to efficiently automate the identification and labeling of common categories of sensitive business information that belong to either of the following categories:

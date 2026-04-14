@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2024-12-18T14:18:09Z'
 updated_at: '2025-01-09T08:48:27Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   plans: Desktop
 ---

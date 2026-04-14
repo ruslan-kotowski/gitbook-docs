@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-03-31T12:25:30Z'
 updated_at: '2026-03-20T14:10:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: confluence
 availability:
   plans: All Miro plans; Confluence Cloud (embedding in Miro), Confluence Cloud/Server/DC
     (embedding in Confluence)

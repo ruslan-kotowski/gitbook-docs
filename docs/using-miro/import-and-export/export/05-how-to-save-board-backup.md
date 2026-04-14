@@ -5,16 +5,11 @@ sidebar_position: 5
 created_at: '2019-02-11T10:14:51Z'
 updated_at: '2025-12-02T10:14:09Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: board_owner, Board co-owners, Company Admins with [Content Admin permissions](../../../enterprise-administration/managing-enterprise-teams-and-content/12-content-admin-permissions.md)
     on [Enterprise Plan](../../../plans-billing/miro-plans/04-enterprise-plan.md)
   plans: starter, business, enterprise, education
   platforms: browser, desktop
-backstage_link:
-  entity_kind: capability
-  entity_id: export-pdf-canvas
 ---
 
 Create archived copies of your boards by saving board backups. Backups allow you to ensure the safety of your content and share copies of your boards with other Miro users.

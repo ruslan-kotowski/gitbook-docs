@@ -5,11 +5,6 @@ sidebar_position: 13
 created_at: '2020-08-20T08:20:29Z'
 updated_at: '2025-12-04T13:41:21Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: emoji-and-stickers
 availability:
   plans: Browser version, Desktop app, Tablet app, Mobile app (limited functionality)
 ---

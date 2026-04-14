@@ -5,11 +5,6 @@ sidebar_position: 1
 created_at: '2024-11-29T13:36:36Z'
 updated_at: '2025-11-25T15:49:05Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: backup-restore-board
 availability:
   roles: Users with edit access
   plans: free, starter, business, enterprise, education

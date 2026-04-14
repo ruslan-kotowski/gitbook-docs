@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2023-01-12T09:20:54Z'
 updated_at: '2025-11-25T16:09:50Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: Users with edit access to both Mural and Miro
   plans: free, starter, business, education, and Enterprise plans (for copy-paste);

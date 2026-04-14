@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2023-10-30T19:54:40Z'
 updated_at: '2026-02-09T12:56:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-permissions
 ---
 
 Assigning predefined administrator roles is an easy way to give privileges to another user in your organization. Each admin role grants one or more privileges that together allow you to perform specific Miro functions.

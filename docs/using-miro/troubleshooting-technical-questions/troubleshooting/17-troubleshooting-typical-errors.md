@@ -5,8 +5,6 @@ sidebar_position: 18
 created_at: '2022-04-15T12:33:03Z'
 updated_at: '2024-08-23T12:36:47Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
 ---
 
 In Miro, we try to ensure the best user experience and aim to provide a stable service to all users. If you spot one of the error messages below on your Miro boards, this guide will help you understand possible reasons and a solution.

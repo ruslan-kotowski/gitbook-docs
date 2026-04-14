@@ -5,15 +5,10 @@ sidebar_position: 14
 created_at: '2019-02-11T10:13:13Z'
 updated_at: '2026-04-07T16:01:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: Jira System Admins
   plans: All Miro plans (for Jira Server/Data Center integration via OAuth 1.0)
   platforms: browser, desktop
-backstage_link:
-  entity_kind: capability
-  entity_id: jira-cards
 ---
 
 To ensure your [Jira Cards](03-jira-cards.md) on a Miro board stay up-to-date, Miro must receive messages from Jira whenever data changes occur. These Jira events are transmitted to Miro via a webhook.

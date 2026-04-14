@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2021-05-27T13:22:59Z'
 updated_at: '2026-02-20T10:07:28Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: business-consultant-plans
 ---
 
 Business Plan Company Admins can create [multiple teams within their subscription](#how-to-create-a-new-team) - this is extremely helpful for working with clients on different projects or for organizing your team content. While both [Company and Team Admins](01-i-am-a-new-miro-admin.-where-to-start.md#team-admin-company-admin) can manage Team-level settings, the option to configure Company-level attributes is available for Company Admins only. See below how this works on Business Plan.

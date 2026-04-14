@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2025-11-04T20:40:23Z'
 updated_at: '2025-11-05T21:30:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: sticky-notes
 ---
 
 New to Miro AI? Start with ready-made prompts for content analysis and organization. Each use case explains what it’s for and includes copy-ready Miro AI prompts.

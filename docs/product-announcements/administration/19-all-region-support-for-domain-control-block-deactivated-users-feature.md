@@ -5,11 +5,6 @@ sidebar_position: 23
 created_at: '2024-11-08T08:00:39Z'
 updated_at: '2024-11-26T15:02:51Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: domain-control
 ---
 
 We are introducing global support for the Domain Control feature, “Block deactivated users.” This feature prevents deactivated users from logging into Miro at all – even logging into other organizations they used to collaborate with. Previously, this feature only worked within the region or private workspace the org existed within. Making this feature available globally gives Company Admins the assurance that they have full global control over their domain users' ability to access Miro.

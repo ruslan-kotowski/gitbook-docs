@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2020-06-08T09:57:44Z'
 updated_at: '2026-02-20T10:15:00Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: box-dropbox
 ---
 
 Not sure which Miro plan to choose for your team? This article will help you to make the right choice.

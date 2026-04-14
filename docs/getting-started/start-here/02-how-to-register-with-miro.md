@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2019-02-11T10:10:37Z'
 updated_at: '2024-10-08T15:14:08Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: sign-in-up
 ---
 
 As soon as you sign up to Miro, you can create your team and boards and invite other users to the platform. Registration is free.

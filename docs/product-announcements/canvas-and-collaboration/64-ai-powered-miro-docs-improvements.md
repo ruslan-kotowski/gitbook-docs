@@ -5,8 +5,6 @@ sidebar_position: 66
 created_at: '2024-12-02T11:41:50Z'
 updated_at: '2024-12-10T15:13:23Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
 ---
 
 Save time and improve your Miro Docs by using AI to quickly summarize the content, enhance the readability, or refine the structure of individual sections.

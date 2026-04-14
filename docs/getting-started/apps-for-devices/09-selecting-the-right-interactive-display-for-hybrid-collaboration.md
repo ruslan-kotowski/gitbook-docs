@@ -5,8 +5,6 @@ sidebar_position: 9
 created_at: '2021-07-05T03:58:58Z'
 updated_at: '2025-02-26T12:02:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 ### What is an interactive display and why you should consider one

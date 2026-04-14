@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2026-03-19T13:42:47Z'
 updated_at: '2026-03-19T13:49:09Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education

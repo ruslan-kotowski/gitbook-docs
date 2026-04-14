@@ -5,11 +5,6 @@ sidebar_position: 15
 created_at: '2025-08-15T08:39:00Z'
 updated_at: '2026-03-16T12:37:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-generate-sticky-notes
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education

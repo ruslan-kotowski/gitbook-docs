@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2021-06-24T12:51:56Z'
 updated_at: '2026-02-19T16:30:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-roles-and-permissions
 availability:
   plans: '[Enterprise](../../plans-billing/miro-plans/04-enterprise-plan.md) plan'
   roles: company_admin, team_admin

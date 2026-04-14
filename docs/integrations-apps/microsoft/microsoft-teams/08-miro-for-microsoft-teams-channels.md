@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2024-11-07T13:09:33Z'
 updated_at: '2025-04-24T13:52:02Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: ms-teams
 ---
 
 Embed a Miro board in a Microsoft Teams (MS Teams) channel. You can centralize Miro collaboration and organize decision-making without switching apps. Add a tab to your MS Teams channel, and embed any Miro board where you are Board owner or Board co-owner.

@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2021-07-19T15:14:00Z'
 updated_at: '2026-01-09T13:02:45Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   plans: '[Enterprise plan](../../../plans-billing/miro-plans/04-enterprise-plan.md)'
   roles: company_admin

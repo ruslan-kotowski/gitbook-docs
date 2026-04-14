@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2020-02-12T11:22:44Z'
 updated_at: '2026-01-06T19:04:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-details-dialog
 ---
 
 Learn how to change the email associated with your Miro profile. Changing your profile email does not affect your access to boards and teams.

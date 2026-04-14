@@ -5,11 +5,6 @@ sidebar_position: 17
 created_at: '2020-04-23T20:04:11Z'
 updated_at: '2026-03-20T14:10:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: jira-cards
 ---
 
 This article answers the most popular questions regarding how our Jira Cards integration is built.

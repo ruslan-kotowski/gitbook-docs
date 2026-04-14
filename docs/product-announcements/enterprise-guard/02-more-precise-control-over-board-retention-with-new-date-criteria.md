@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2025-12-08T15:01:18Z'
 updated_at: '2025-12-24T16:28:02Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: groups
 ---
 
 We’ve expanded retention policies to give admins more flexibility in how long boards are preserved before permanent deletion. When you configure a **retention policy**, you can now decide **which** event the retention period is based on. In addition to choosing the number of **months** or **years**, you can now set retention **since**:

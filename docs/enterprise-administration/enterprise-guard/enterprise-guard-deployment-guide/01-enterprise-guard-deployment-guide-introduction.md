@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2024-02-19T09:17:20Z'
 updated_at: '2025-11-25T15:40:58Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 This document will guide you through the deployment of Miro's advanced security product, Enterprise Guard, by detailing best practices for both configuration and end-user enablement. If you have any questions relating to the contents of this guide, please contact your Miro account team.

@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2022-08-08T15:27:23Z'
 updated_at: '2026-01-06T19:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: guests
 ---
 
 In Miro there are several ways you can share your content. The first step is to decide how frequently and to what extent you wish to collaborate, so you can invite users with the right role type.

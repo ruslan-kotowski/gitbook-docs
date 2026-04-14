@@ -5,11 +5,6 @@ sidebar_position: 20
 created_at: '2019-02-11T10:12:17Z'
 updated_at: '2026-01-06T19:00:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: widget-transformation
 ---
 
 Change objects in your diagram in a flash with the **switch type** feature. It allows you to instantly transform one object into another, whether it’s a [sticky note](../essential-tools/14-sticky-notes.md), [a text box](../essential-tools/16-text.md), [a card](../essential-tools/02-cards.md) or [a shape](../essential-tools/11-shapes.md). Switch type is available for basic shapes and [diagramming shape packs](../formats/diagramming/01-miro-for-mapping-diagramming.md#available-shape-packs).

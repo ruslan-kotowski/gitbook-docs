@@ -5,11 +5,6 @@ sidebar_position: 9
 created_at: '2022-03-30T10:59:48Z'
 updated_at: '2026-01-06T19:03:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: export-embed
 availability:
   plans: '**: Education, business, enterprise'
 ---

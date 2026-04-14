@@ -5,11 +5,6 @@ sidebar_position: 16
 created_at: '2019-02-19T11:19:28Z'
 updated_at: '2026-01-06T19:03:41Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: template-picker
 availability:
   plans: starter, education, business, enterprise
 ---

@@ -5,8 +5,6 @@ sidebar_position: 6
 created_at: '2020-05-21T16:21:10Z'
 updated_at: '2026-03-06T13:37:49Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Miro is built for teamwork and enables many users to work together effectively on a single board. This section outlines what you can expect when collaborating with a large number of participants.

@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2025-03-28T08:31:00Z'
 updated_at: '2025-04-01T08:26:14Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: notes
 ---
 
 Bring your board content into the more structured format of a Doc. Using objects on the canvas as your input, you can create summaries, research reports, and product briefs to kickstart assembling and analyzing your insights.

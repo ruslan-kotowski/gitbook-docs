@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-02-11T10:14:31Z'
 updated_at: '2026-01-06T19:04:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-participants-and-user-profile-popup
 ---
 
 You can change your Miro password at any time.

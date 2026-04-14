@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2025-11-12T21:45:23Z'
 updated_at: '2026-03-20T08:40:39Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: in-app-notifications
 ---
 
 Use the Announcements page to view, track, and manage announcements across their lifecycle.

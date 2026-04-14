@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2024-11-12T17:13:00Z'
 updated_at: '2025-12-10T12:23:09Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-permissions
 availability:
   plans: enterprise
   roles: company_admin

@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2021-12-01T04:50:21Z'
 updated_at: '2025-11-25T16:07:47Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: slack-ms-teams
 availability:
   plans: free, starter, business, education, enterprise, and all Microsoft 365 plans
 ---

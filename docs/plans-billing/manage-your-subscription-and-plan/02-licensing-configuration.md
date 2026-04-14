@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2025-06-23T13:37:43Z'
 updated_at: '2025-06-23T13:51:37Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: roles-and-licences
 availability:
   roles: company_admin
   plans: business

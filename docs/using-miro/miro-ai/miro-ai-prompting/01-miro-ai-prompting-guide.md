@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2025-10-14T17:24:22Z'
 updated_at: '2025-11-25T15:54:58Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Better prompting produces better results when working with any AI model. More in-depth prompts generally create outputs that are more closely aligned with what you have in mind. Shorter, less-detailed prompts give the AI model more freedom to interpret what you want, which can produce surprising outputs.

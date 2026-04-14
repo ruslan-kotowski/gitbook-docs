@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2022-04-04T13:06:00Z'
 updated_at: '2026-01-06T19:04:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: board-participants-and-user-profile-popup
 ---
 
 You can update your language in Miro with just a few clicks from your Profile settings. Your language settings will be reflected across your Miro boards, dashboard, and settings.

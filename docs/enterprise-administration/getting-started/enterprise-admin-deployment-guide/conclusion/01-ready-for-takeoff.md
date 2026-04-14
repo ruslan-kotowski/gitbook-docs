@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2024-10-28T12:28:06Z'
 updated_at: '2025-11-25T16:22:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Now that you have completed the *Enterprise admin deployment guide*, you are ready to onboard and enable your users to innovate collaboratively.

@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2026-02-19T10:50:55Z'
 updated_at: '2026-04-10T07:51:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: aws-cost-calculator
 ---
 
 To make it easier to choose the right capabilities for different teams and workflows, Miro is introducing **Standard** and **Advanced** Enterprise licenses.

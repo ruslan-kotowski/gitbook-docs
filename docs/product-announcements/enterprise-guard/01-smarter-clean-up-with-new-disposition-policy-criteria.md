@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2025-12-08T15:07:25Z'
 updated_at: '2025-12-08T16:01:17Z'
 draft: false
-user_segment_id: 20452591519250
-user_segment: Company Admins (Premium)
-backstage_link:
-  entity_kind: capability
-  entity_id: spaces
 ---
 
 We’ve updated disposition policies to give you more control over when boards are automatically moved to Trash. When configuring a **disposition policy**, you can now choose whether the disposition period is calculated from:

@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-05-19T11:10:19Z'
 updated_at: '2025-11-25T15:51:28Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Data Discovery dashboard provides a centralized view of sensitive information detected across your organization's boards. It enables admins to monitor, classify, and manage data risks by identifying privacy-related or business-sensitive content. The Data Discovery dashboard includes the following metrics:

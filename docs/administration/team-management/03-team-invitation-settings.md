@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2023-08-21T13:54:06Z'
 updated_at: '2025-06-23T13:54:36Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: invitations
 availability:
   roles: team_admin, company_admin
   plans: free, starter, education, business, enterprise

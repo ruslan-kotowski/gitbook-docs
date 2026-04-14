@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2019-02-11T10:08:54Z'
 updated_at: '2026-01-07T13:30:06Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: delete-board
 availability:
   roles: profile owner
 ---

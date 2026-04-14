@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2019-02-11T10:14:18Z'
 updated_at: '2024-08-28T10:38:34Z'
 draft: true
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: iconfinder
 ---
 
 With IconFinder, you can create mockups, schemes, mind maps, and organize visual brainstorming sessions. **Iconfinder** icon set is used by millions of designers, developers, and other creative professionals all over the world to make designs and projects perfectly structured, visually appealing, and clear.

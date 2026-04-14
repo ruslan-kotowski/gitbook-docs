@@ -5,11 +5,6 @@ sidebar_position: 9
 created_at: '2020-04-03T11:32:04Z'
 updated_at: '2026-01-06T19:04:57Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: template-picker
 ---
 
 ## What is Miroverse?

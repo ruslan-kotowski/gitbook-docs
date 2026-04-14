@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2025-05-22T16:02:58Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Content Lifecycle dashboard provides a centralized view for administrators to monitor and manage the full lifecycle of boards—from creation to deletion—while aligning with organizational data retention policies. It provides visibility into the current lifecycle stage of each board, helping ensure appropriate content handling.

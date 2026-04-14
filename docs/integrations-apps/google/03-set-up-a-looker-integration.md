@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2025-03-05T14:00:46Z'
 updated_at: '2025-06-04T08:30:26Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: looker
 ---
 
 :::note

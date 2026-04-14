@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-02-11T10:11:19Z'
 updated_at: '2025-11-25T16:02:10Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: mind-map
 availability:
   plans: browser version, [Desktop app](../../getting-started/apps-for-devices/05-desktop-app.md),
     [Tablet app](../../getting-started/apps-for-devices/11-tablet-app.md), [Mobile

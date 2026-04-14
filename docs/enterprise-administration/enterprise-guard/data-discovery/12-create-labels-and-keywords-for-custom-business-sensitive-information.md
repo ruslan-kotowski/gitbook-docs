@@ -5,8 +5,6 @@ sidebar_position: 12
 created_at: '2024-09-26T21:36:45Z'
 updated_at: '2026-03-04T22:59:00Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Create labels to define conditions, like keywords or widgets, that you want to identify and locate on Miro boards. You can create up to 100 custom business-sensitive labels. To create a label, perform the following steps:

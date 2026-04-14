@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2025-10-29T00:48:53Z'
 updated_at: '2026-01-12T11:23:52Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-granular-admin-settings
 ---
 
 To adjust which labels are blocked or to toggle code scanning:

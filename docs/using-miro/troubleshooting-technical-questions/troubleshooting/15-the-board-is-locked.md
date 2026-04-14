@@ -5,8 +5,6 @@ sidebar_position: 16
 created_at: '2019-02-11T10:14:34Z'
 updated_at: '2025-07-10T10:59:45Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: all_users
   plans: free

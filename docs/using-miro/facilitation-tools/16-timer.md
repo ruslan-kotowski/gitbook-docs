@@ -5,11 +5,6 @@ sidebar_position: 16
 created_at: '2019-02-11T10:12:09Z'
 updated_at: '2025-04-24T16:56:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: timer
 availability:
   plans: starter, business, enterprise, education
   roles: editors who were explicitly invited to the board [via email](../sharing-boards/03-sharing-boards-and-inviting-collaborators.md#inviting-via-email) or

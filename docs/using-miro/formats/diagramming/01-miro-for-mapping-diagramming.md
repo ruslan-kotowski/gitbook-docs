@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2021-07-12T12:00:22Z'
 updated_at: '2026-04-10T11:56:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education
@@ -14,9 +12,6 @@ availability:
   notes: '* Specific shape packs (BPMN, AWS, Electrical Engineering) and features
     like custom shapes and advanced diagramming formats, are available only with Business,
     Enterprise, and Education plans.'
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-generate-diagram
 ---
 
 Miro provides a comprehensive suite of tools for all stages of your mapping and diagramming process, functioning as an all-in-one solution. You can start creating diagrams from scratch using intuitive tools and frameworks or leverage Miro's extensive library of pre-made templates. Miro's collaborative features allow you to easily share your work with teammates, enabling real-time discussions and refinements directly on the board. When your diagram is complete, you can effortlessly export and present it.

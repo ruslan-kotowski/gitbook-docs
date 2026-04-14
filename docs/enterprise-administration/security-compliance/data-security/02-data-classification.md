@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2022-02-07T10:01:21Z'
 updated_at: '2025-02-26T12:17:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   plans: desktop, tablet
   roles: company_admin

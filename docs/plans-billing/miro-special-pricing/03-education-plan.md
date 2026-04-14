@@ -5,11 +5,6 @@ sidebar_position: 3
 created_at: '2019-02-11T10:10:07Z'
 updated_at: '2026-02-16T10:13:07Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: voting
 ---
 
 Bring interactivity and power of visual collaboration to your classroom and study! Miro provides the free Educational plan to**staff members and students of educational institutions**.

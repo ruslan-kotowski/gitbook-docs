@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2019-02-11T10:14:32Z'
 updated_at: '2026-01-06T19:02:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: backup-restore-board
 ---
 
 **Recover missing or deleted Miro boards. You can restore a deleted board within 9****0 days****.**

@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2022-06-24T07:22:19Z'
 updated_at: '2025-11-25T16:08:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: google-meet
 ---
 
 Make your meetings even more engaging and interactive with Miro in Google Meet. View and open any of your Miro boards or even start a new one, and collaborate with anyone - even without a Miro profile. Save your work for later and access it at any time.

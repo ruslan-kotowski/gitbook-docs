@@ -5,8 +5,6 @@ sidebar_position: 2
 created_at: '2024-10-11T12:20:34Z'
 updated_at: '2025-11-25T15:48:02Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Legal Hold feature is designed to support compliance and eDiscovery processes by preserving boards that are subject to investigation or relevant to ongoing legal cases.

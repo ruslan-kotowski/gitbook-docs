@@ -5,11 +5,6 @@ sidebar_position: 5
 created_at: '2019-02-11T10:13:22Z'
 updated_at: '2025-08-05T07:47:09Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: google-drive-onedrive
 availability:
   roles: all_users
   plans: free, starter, business, enterprise, education

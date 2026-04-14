@@ -5,11 +5,6 @@ sidebar_position: 4
 created_at: '2021-07-16T09:41:53Z'
 updated_at: '2025-11-25T16:06:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: accessibility
 ---
 
 The Miro Accessibility team is collecting tips for designing and running inclusive collaborative sessions in Miro in this article. We will be regularly updating it as we learn more about best practices that work for our customers.

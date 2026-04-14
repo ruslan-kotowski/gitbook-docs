@@ -5,8 +5,6 @@ sidebar_position: 6
 created_at: '2023-11-30T19:22:05Z'
 updated_at: '2025-11-24T16:30:24Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The following table lists sensitivity labels supported in the current release, their description, and the infotypes associated with each sensitivity label.

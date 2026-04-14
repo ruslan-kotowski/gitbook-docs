@@ -5,8 +5,6 @@ sidebar_position: 6
 created_at: '2024-10-25T08:11:40Z'
 updated_at: '2024-11-06T15:27:10Z'
 draft: true
-user_segment_id: 360000855373
-user_segment: Agents and admins
 ---
 
 asdflkasdlf![icon-mindmap.svg](images/22456130699026_icon-mindmap.svg)

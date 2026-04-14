@@ -5,11 +5,6 @@ sidebar_position: 12
 created_at: '2021-05-17T11:56:55Z'
 updated_at: '2026-01-06T19:02:16Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: activity-list
 availability:
   roles: board_owner, Board co-owners, Board editors who are members of the team where
     the board is located [if they are allowed to copy the board content](#limit-or-disable-restoring-previous-board-versions)

@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2024-01-19T19:01:45Z'
 updated_at: '2025-11-25T15:40:44Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Defining guardrails is the third step of the auto-classification and guardrails configuration flow. In this step of the flow, you will configure the guardrails, which are the restrictions applicable for each classification level, such as block public sharing, block sharing with teams, block sharing with organization, or block content replication. For example, you can configure guardrails to block public sharing, block sharing with teams, block sharing with organization, and block content replication for users of boards that are classified as CONFIDENTIAL.

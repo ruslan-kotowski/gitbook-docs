@@ -5,11 +5,6 @@ sidebar_position: 10
 created_at: '2021-09-06T12:15:14Z'
 updated_at: '2026-04-10T12:06:14Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: interactive-displays
 ---
 
 Start collaborating in seconds. Use the Send to display feature to launch any Miro board on your interactive display.

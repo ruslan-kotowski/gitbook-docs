@@ -5,11 +5,6 @@ sidebar_position: 6
 created_at: '2019-02-11T10:08:20Z'
 updated_at: '2025-04-25T13:57:02Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: contact-sales-contact-education
 ---
 
 As you [upgrade your team](../../plans-billing/manage-your-subscription-and-plan/03-upgrade-your-plan.md) to [Starter plan](../../plans-billing/miro-plans/08-starter-plan.md) or receive an Education license, you get access to advanced admin management options such as board sharing and content settings. Learn more about these and other controls available for Admins on Starter or Education plan.

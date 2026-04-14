@@ -5,8 +5,6 @@ sidebar_position: 9
 created_at: '2025-07-09T17:31:49Z'
 updated_at: '2025-11-25T15:52:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Editing a legal hold allows eDiscovery Admins to adjust and refine ongoing legal preservation efforts as case requirements evolve. Whether new custodians are identified, additional Miro boards become relevant, or existing boards or users are no longer in scope, editing a legal hold ensures that the correct data remains preserved and defensible throughout the legal process.

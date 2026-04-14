@@ -5,8 +5,6 @@ sidebar_position: 18
 created_at: '2025-01-07T12:24:40Z'
 updated_at: '2025-11-25T16:22:17Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Deactivating business-sensitive data discovery disables the seamless identification and labeling of common categories of sensitive business information using Miro's built-in machine learning labels.

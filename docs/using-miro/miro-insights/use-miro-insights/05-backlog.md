@@ -5,8 +5,6 @@ sidebar_position: 5
 created_at: '2025-10-10T13:34:19Z'
 updated_at: '2025-11-25T15:54:34Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Backlog is your main workspace in Miro Insights where you manage all your features and issues. This central hub provides comprehensive tools for organizing, prioritizing, and tracking your product development work.

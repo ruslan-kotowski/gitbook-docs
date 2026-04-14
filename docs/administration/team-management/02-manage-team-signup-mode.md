@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2019-02-11T10:08:39Z'
 updated_at: '2025-06-23T13:26:46Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: join-leave-team
 availability:
   plans: free, starter, business, education
   roles: team_admin, company_admin

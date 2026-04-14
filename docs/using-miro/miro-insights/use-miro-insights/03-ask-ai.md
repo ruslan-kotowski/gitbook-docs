@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2025-10-10T13:24:06Z'
 updated_at: '2025-11-25T15:54:26Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 The Ask AI feature lets you ask questions about your backlog, features, and customer feedback using natural language. The AI analyzes your data and provides insights to help with prioritization and decision-making.

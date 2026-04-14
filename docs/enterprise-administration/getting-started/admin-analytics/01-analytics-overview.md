@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2025-10-19T21:35:34Z'
 updated_at: '2026-03-12T09:48:48Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Analytics gives Company Admins data-driven, actionable insights into their organization’s adoption, usage, and management of Miro. It is designed to provide targeted analytics that help you understand how Miro is being used across your organization, efficiently manage your Miro organization, drive adoption, and stay on top of security and compliance.

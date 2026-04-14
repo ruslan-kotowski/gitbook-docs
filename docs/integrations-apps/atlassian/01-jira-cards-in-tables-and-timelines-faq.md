@@ -5,11 +5,10 @@ sidebar_position: 18
 created_at: '2026-03-04T14:25:24Z'
 updated_at: '2026-03-20T14:11:11Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 availability:
   roles: team_member
-  plans: (See [FAQ](#what-miro-licenses-support-jira-in-tables-and-timelines)) Business, Enterprise Advanced
+  plans: (See [FAQ](#what-miro-licenses-support-jira-in-tables-and-timelines)) Business,
+    Enterprise Advanced
   platforms: browser, desktop, mobile
 ---
 

@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2025-11-06T12:39:17Z'
 updated_at: '2025-11-13T11:23:48Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: confluence
 ---
 
 Admin announcements let you post targeted, time‑bound messages to people in your organization from the Admin console. You can write a message, add a call‑to‑action (CTA) that links anywhere (such as signup form, Typeform, Confluence/SharePoint article), choose the audience, and schedule when it appears.

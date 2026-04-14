@@ -5,8 +5,6 @@ sidebar_position: 4
 created_at: '2019-02-11T10:14:57Z'
 updated_at: '2026-03-06T13:37:49Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 You can upload content to Miro in the following file formats:

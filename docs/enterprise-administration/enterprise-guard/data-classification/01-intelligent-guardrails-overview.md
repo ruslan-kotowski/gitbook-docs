@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2023-10-12T12:35:03Z'
 updated_at: '2025-11-25T16:22:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Miro board items can contain privacy and regulatory data (such as PII, PHI, PCI) or confidential business-critical content (such as financial information, HR information, IP, trade secrets). After data discovery and auto-classification, organizations must implement proactive controls that are crucial for maintaining sustained privacy, security, and compliance with relevant regulations.

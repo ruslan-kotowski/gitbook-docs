@@ -5,8 +5,6 @@ sidebar_position: 1
 created_at: '2025-04-24T14:18:00Z'
 updated_at: '2025-11-25T15:50:56Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 eDiscovery Admins can now directly export boards under legal hold from the Admin console.

@@ -5,8 +5,6 @@ sidebar_position: 3
 created_at: '2025-10-10T11:48:03Z'
 updated_at: '2025-10-14T12:37:35Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Connect Miro Insights with hundreds of tools through [Zapier](http://zapier.com/) to automatically capture feedback and data from sources that don't have direct integrations. This allows you to centralize customer insights from across your entire tech stack.

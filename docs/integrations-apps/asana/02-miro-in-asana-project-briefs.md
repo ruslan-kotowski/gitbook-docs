@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2022-02-15T06:18:10Z'
 updated_at: '2025-02-26T11:48:03Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: asana-cards
 availability:
   plans: all Miro plans
 ---

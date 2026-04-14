@@ -5,8 +5,6 @@ sidebar_position: 9
 created_at: '2022-04-22T09:21:44Z'
 updated_at: '2025-03-20T05:01:26Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 Follow this guide if you can no longer access a Miro board or you lost editing access.

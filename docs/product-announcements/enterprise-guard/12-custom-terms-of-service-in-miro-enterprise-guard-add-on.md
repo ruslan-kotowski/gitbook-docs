@@ -5,11 +5,6 @@ sidebar_position: 15
 created_at: '2025-06-06T09:07:40Z'
 updated_at: '2025-09-12T07:10:15Z'
 draft: false
-user_segment_id: 360000855373
-user_segment: Agents and admins
-backstage_link:
-  entity_kind: capability
-  entity_id: audit-logs
 ---
 
 **Admin features:**

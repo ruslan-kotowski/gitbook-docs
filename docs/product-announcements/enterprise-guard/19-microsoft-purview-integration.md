@@ -5,11 +5,6 @@ sidebar_position: 22
 created_at: '2024-10-16T07:08:09Z'
 updated_at: '2025-12-03T15:54:30Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-granular-admin-settings
 ---
 
 For organizations utilizing Microsoft Purview, maintaining consistent data security and classification across multiple platforms is essential. Miro's integration with Microsoft Purview allows administrators to import sensitivity labels directly from Microsoft Purview into Miro, simplifying the management of classification schemas across both platforms.

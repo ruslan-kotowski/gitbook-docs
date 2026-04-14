@@ -5,11 +5,6 @@ sidebar_position: 2
 created_at: '2022-01-18T08:15:54Z'
 updated_at: '2025-11-25T16:08:07Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: template-library
 ---
 
 Run team planning sessions, track your progress and keep your entire planning workflow in Miro! This quick overview of tools for strategy & planning will help you to kick off the planning process. When you’re ready to start organizing your meeting, check out the [Helpful resources section](#helpful-resources-miro-blog) at the end of this article.

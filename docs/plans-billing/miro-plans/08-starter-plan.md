@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2019-02-11T10:10:02Z'
 updated_at: '2026-02-16T13:10:41Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: asana-cards
 ---
 
 The Starter plan helps to organize collaboration in your team and gives access to the essential, advanced features.

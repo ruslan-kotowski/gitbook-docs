@@ -5,8 +5,6 @@ sidebar_position: 7
 created_at: '2024-01-19T18:57:35Z'
 updated_at: '2025-11-25T15:40:29Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 This is the first step of the auto-classification and guardrails configuration flow. In this step of the flow, you can define classification levels, which involves adding new classification levels or updating a classification level configuration, such as the classification name, sensitivity order, badge color, link to classification guidelines, and more. When defining classification levels you can:

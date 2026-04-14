@@ -5,11 +5,6 @@ sidebar_position: 25
 created_at: '2025-03-13T10:01:18Z'
 updated_at: '2025-04-17T14:35:19Z'
 draft: false
-user_segment_id: 16307853619090
-user_segment: Enterprise Company Admins
-backstage_link:
-  entity_kind: capability
-  entity_id: ai-granular-admin-settings
 ---
 
 Sensitive Content admins can now block Miro AI on boards that contain sensitive content, which ensures that Miro AI tools are unavailable on these boards, and enhances data security and compliance.

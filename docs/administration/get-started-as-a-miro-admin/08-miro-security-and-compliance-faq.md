@@ -5,11 +5,6 @@ sidebar_position: 8
 created_at: '2020-03-04T04:50:57Z'
 updated_at: '2025-11-25T15:57:05Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: api-security
 ---
 
 We care about data privacy and security and strive to keep our security practices on par with industry leaders. Read our most frequently asked questions about data privacy and security.

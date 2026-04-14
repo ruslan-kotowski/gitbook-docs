@@ -5,11 +5,6 @@ sidebar_position: 7
 created_at: '2024-01-26T12:07:13Z'
 updated_at: '2025-12-15T14:57:54Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
-backstage_link:
-  entity_kind: capability
-  entity_id: image-widget-gif
 availability:
   roles: board_editor
   plans: free, starter, business, enterprise, education

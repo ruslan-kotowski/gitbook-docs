@@ -5,8 +5,6 @@ sidebar_position: 9
 created_at: '2024-05-28T17:58:22Z'
 updated_at: '2025-12-08T16:00:51Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 ## Board is trashed during retention period

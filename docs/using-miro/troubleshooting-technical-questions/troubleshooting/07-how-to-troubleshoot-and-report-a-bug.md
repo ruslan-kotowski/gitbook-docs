@@ -5,8 +5,6 @@ sidebar_position: 8
 created_at: '2019-02-11T10:14:28Z'
 updated_at: '2026-04-02T09:35:12Z'
 draft: false
-user_segment_id: null
-user_segment: Everyone
 ---
 
 If you are experiencing performance issues or can’t use Miro, learn how to report the bug to [Miro Support](../../tools/troubleshooting/06-contacting-miro-support.md).
